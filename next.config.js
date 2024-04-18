@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const config = {
+  output: "standalone",
   reactStrictMode: false,
   images: {
     domains: ['firebasestorage.googleapis.com'],

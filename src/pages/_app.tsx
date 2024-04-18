@@ -23,8 +23,6 @@ import 'src/global.css';
 import 'src/locales/i18n';
 
 import { RTL } from 'src/components/rtl';
-
-import { SettingsButton } from 'src/components/settings/settings-button';
 import { SettingsDrawer } from 'src/components/settings/settings-drawer';
 import { Toaster } from 'src/components/toaster';
 
@@ -102,7 +100,6 @@ const CustomApp = (props: CustomAppProps) => {
 
                               <>
                                 {getLayout(<Component {...pageProps} />)}
-                                <SettingsButton onClick={settings.handleDrawerOpen} />
                                 <SettingsDrawer
                                   canReset={settings.isCustom}
                                   onClose={settings.handleDrawerClose}
