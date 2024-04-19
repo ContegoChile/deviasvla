@@ -14,86 +14,12 @@ import SvgColor from "../components/svg-color";
 import {useTheme} from "@mui/material/styles";
 import { useTranslation } from 'react-i18next'
 import Paper from '@mui/material/Paper';
-
-
-type CategoryItem = {
-  title: string;
-  icon: string;
-};
+import categories, { CategoryItems } from "src/constants/areas";
 
 const Page: NextPage = () => {
   const { t } = useTranslation();
 
   useTheme();
-
-  const categories: CategoryItem[] = [
-    {
-      title: 'CORPORATIVO',
-      icon: '/assets/icons/ic_checklist.svg',
-    },
-    {
-      title: 'FUSIONES Y ADQUISICIONES',
-      icon: 'assets/icons/ic_file.svg', // Replace with the correct path
-    },
-    {
-      title: 'TRIBUTARIA',
-      icon: 'assets/icons/ic_agreement.svg', // Replace with the correct path
-    },
-    {
-      title: 'LABORAL',
-      icon: 'assets/icons/ic_service_bullhorn.svg', // Replace with the correct path
-    },
-    {
-      title: 'CONTRATACIÓN NACIONAL E INTERNACIONAL',
-      icon: 'assets/icons/ic_service_analysis.svg', // Replace with the correct path
-    },
-    {
-      title: 'INMOBILIARIA, INGENIERÍA Y CONSTRUCCIÓN',
-      icon: 'assets/icons/ic_banking_currency.svg', // Replace with the correct path
-    },
-    {
-      title: 'FINANCIAMIENTO DE PROYECTOS',
-      icon: 'assets/icons/ic_money.svg', // Replace with the correct path
-    },
-    {
-      title: 'MERCADOS REGULADOS',
-      icon: 'assets/icons/ic_banking.svg', // Replace with the correct path
-    },
-    {
-      title: 'INMIGRACIÓN',
-      icon: 'assets/icons/ic_customer_service.svg', // Replace with the correct path
-    },
-    {
-      title: 'INVERSIÓN EXTRANJERA',
-      icon: 'assets/icons/ic_money.svg', // Replace with the correct path
-    },
-    {
-      title: 'ENERGÍA Y RECURSOS NATURALES',
-      icon: 'assets/icons/energy.svg', // Replace with the correct path
-    },
-    {
-      title: 'AGUAS',
-      icon: 'assets/icons/aguas.svg', // Replace with the correct path
-    },
-    { title: 'LITIGIOS', icon: 'assets/icons/gavel_2.svg' },
-    { title: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE', icon: 'assets/icons/shake.svg' },
-    { title: 'LIBRE COMPETENCIA', icon: 'assets/icons/free.svg' },
-    { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: 'assets/icons/const.svg' },
-    { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: 'assets/icons/law.svg' },
-    { title: 'CONFLICTOS DE LEYES Y JURISDICCIÓN', icon: 'assets/icons/conflicts.svg' },
-    { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: 'assets/icons/protect.svg' },
-    { title: 'INSOLVENCIA Y REORGANIZACIÓN EMPRESARIAL', icon: 'assets/icons/reorg.svg' },
-    { title: 'MEDIO AMBIENTE', icon: 'assets/icons/environ.svg' },
-    { title: 'AGROINDUSTRIA', icon: 'assets/icons/AGROIN.svg ' },
-    { title: 'EDUCACIÓN', icon: 'assets/icons/edu.svg ' },
-    { title: 'PRÁCTICA GENERAL', icon: 'assets/icons/general.svg' },
-  ];
-
-
-
-
-
-  // Additional areas
 
   return (
     <Container sx={{ py: { xs: 5, md: 10, lg: 17 } }}>
@@ -122,7 +48,11 @@ const Page: NextPage = () => {
         }}
       >
         {categories.map((module) => (
-          <CategoryItem key={module.title} module={module} />
+          <CategoryItem 
+            key={module.title} 
+            module={module}
+
+          />
         ))}
       </Box>
     </Container>
@@ -130,7 +60,7 @@ const Page: NextPage = () => {
 }
 
 type CategoryItemProps = {
-  module: CategoryItem;
+  module: CategoryItems;
 };
 
 const CategoryItem = ({ module }: CategoryItemProps) => {
@@ -145,6 +75,10 @@ const CategoryItem = ({ module }: CategoryItemProps) => {
   const handleMouseLeave = () => {
     setHovered(false);
   };
+
+  const handleGoToPage = (item : any) => {
+    router.push(`/areas/${ item.code }`);
+  }
 
   return (
     <Paper
@@ -165,6 +99,8 @@ const CategoryItem = ({ module }: CategoryItemProps) => {
       }}
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
+      onClick={ () => handleGoToPage(module) }
+
     >
       <Stack
         alignItems="center"
