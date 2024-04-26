@@ -12,10 +12,13 @@ import { useTranslation } from "react-i18next";
 import { tokens } from "src/locales/tokens";
 import { areas } from './../../../api/blog/data';
 
+import Link from "next/link";
+
 function Page() {
 
     const { t } = useTranslation();
 
+    
     const params = useParams() ; 
     const theme = useTheme();
 
@@ -38,10 +41,33 @@ function Page() {
     
     
     return  code !== "" && (
+      <>
+        <Container
+          sx={{
+            pt: { xs: '100px', sm: '100px', md: '120px', lg: '180px' },
+            // pb: { xs: '30px', sm: '40px', md: '50px', lg: '120px' },
+            px: { xs: '30px', sm: '30px', md: '30px', lg: '30px' },
+            display: 'flex', // Add flex display
+            alignItems: 'right', // Align items to the center
+            justifyContent: 'right', // Center items along the cross axis
+          }}>
+          <Link  
+            href="/areas"
+            title="Volver a Areas"  
+          >
+            <SvgColor
+              src={ '/assets/icons/circle-chevron-left-solid.svg' }
+              color={ theme.palette.primary.main } // Change icon color on hover to primary color
+              sx={{
+                  width: 40,
+                  height: 40,
+              }}
+            />
+          </Link>
+        </Container>
         <Container
           maxWidth="lg"
           sx={{
-            pt: { xs: '60px', sm: '80px', md: '120px', lg: '180px' },
             pb: { xs: '30px', sm: '40px', md: '50px', lg: '120px' },
             px: { xs: '10px', sm: '15px', md: '20px', lg: '25px' },
             display: 'flex', // Add flex display
@@ -53,8 +79,6 @@ function Page() {
           <Typography sx={{
             ...typography.h5,
             mb: 4,
-            mt: { xs: 5, sm: 5, md: 4 }, // Adjust these values as needed
-            pt: { xs: 5, sm: 4, md: 6 }, // Adjust these values as needed
             textAlign: 'center'
           }}>
              { t(tokens.areas[ code ].title) }
@@ -82,6 +106,8 @@ function Page() {
                 { t(tokens.areas[ code ].description) }
             </Typography>
         </Container>
+      </>
+
       );
 }
 
