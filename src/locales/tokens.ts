@@ -486,6 +486,19 @@ headings: {
     corporativo : {
       title : 'areas.corporativo.title',
       description : 'areas.corporativo.description',
+    },    
+    fusiones_adquisiciones : {
+      title : 'areas.fusiones_adquisiciones.title',
+      description : 'areas.fusiones_adquisiciones.description',
+    },
+    tributaria : {
+      title : 'areas.tributaria.title',
+      description : 'areas.tributaria.description',
+    },
+
+    laboral : {
+      title : 'areas.laboral.title',
+      description : 'areas.laboral.description',
     },
   }
 

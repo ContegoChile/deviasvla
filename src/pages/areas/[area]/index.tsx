@@ -7,10 +7,8 @@ import { Container, Typography } from "@mui/material";
 import {useTheme} from "@mui/material/styles";
 import categories from "src/constants/areas";
 import SvgColor from "src/components/svg-color";
-import { useRouter } from "next/router";
 import { useTranslation } from "react-i18next";
 import { tokens } from "src/locales/tokens";
-import { areas } from './../../../api/blog/data';
 
 import Link from "next/link";
 
@@ -44,7 +42,7 @@ function Page() {
       <>
         <Container
           sx={{
-            pt: { xs: '100px', sm: '100px', md: '120px', lg: '180px' },
+            pt: { xs: '100px', sm: '100px', md: '120px', lg: '140px' },
             // pb: { xs: '30px', sm: '40px', md: '50px', lg: '120px' },
             px: { xs: '30px', sm: '30px', md: '30px', lg: '30px' },
             display: 'flex', // Add flex display

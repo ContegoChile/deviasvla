@@ -623,13 +623,13 @@ export const en = {
 
   [tokens.areas.corporativo.title]: 'CORPORATE',
   [tokens.areas.corporativo.description]: `
-    We provide advice on all corporate aspects of companies, their internal operations, structure and organization, the rights and duties of shareholders and directors, or partners and administrators, the relationship that the company should maintain with state entities and authorities, society and various commercial agents, among other aspects.
+  We provide advice on all corporate aspects of companies, their internal operations, structure and organization, the rights and duties of shareholders and directors, or partners and administrators, the relationship that the company should maintain with state entities and authorities, society and various commercial agents, among other aspects.
+
+  After the publication of Law Number 21,595, which systematizes economic offenses and regulates the penalties and additional consequences applicable to those responsible for these crimes, particularly legal entities, it is necessary that, in all corporate activities, not only specialists in the area are involved, but also other professionals.
+
+  VLA has a multidisciplinary team of specialists who collectively address the increasingly complex needs of clients. Their vast experience, coupled with their reputation and track record, allows their advice to provide the certainty and clarity that clients need to make their decisions.
   
-    After the publication of Law Number 21,595, which systematizes economic offenses and regulates the penalties and additional consequences applicable to those responsible for these crimes, particularly legal entities, it is necessary that, in all corporate activities, not only specialists in the area are involved, but also other professionals.
-  
-    VLA has a multidisciplinary team of specialists who collectively address the increasingly complex needs of clients. Their vast experience, coupled with their reputation and track record, allows their advice to provide the certainty and clarity that clients need to make their decisions.
-    
-    Without being exhaustive, this service includes:
+  Without being exhaustive, this service includes:
 
       1. The creation and modification of companies, as well as their restructuring.
 
@@ -644,7 +644,84 @@ export const en = {
       6. Assistance in complying with the regulations and norms in force in the industry and geographical location where it operates.
 
       7. Provides guidance on how the corporation should be run to be fair and transparent to its shareholders.
-      
-    This is not an exhaustive list, but it does cover many of the key services that can be expected from a corporate legal department. Each corporation may have specific needs depending on its size, industry, and geographical location.` ,
+    
+  This is not an exhaustive list, but it does cover many of the key services that can be expected from a corporate legal department. Each corporation may have specific needs depending on its size, industry, and geographical location.` ,
+  
+  [tokens.areas.fusiones_adquisiciones.title]: 'MERGERS AND ACQUISITIONS',
+
+  [tokens.areas.fusiones_adquisiciones.description]: `
+  We assist and represent clients in all stages of a business negotiation and/or transaction. Starting with due diligence, the MOU, and ending with the drafting and perfection of the final agreements and contracts, including share and asset transactions, international mergers, joint venture agreements, takeovers and swap offers of listed companies.
+
+  In corporate restructurings, we are particularly concerned with the management of the corporation, ensuring that the operation aims to improve or facilitate business conditions, as well as obtain competitive advantages; financing; the elimination or mitigation of costs or risks; enhance productive capacity or market presence; optimize management or any other similar purpose to those previously mentioned and that, in any case, is distinct from mere tax matters.
+
+  We also make available to our clients the entire multidisciplinary team that practices at VLA to ensure that the transactions and businesses we review are perfected in the best way for the client's interest.
+
+  We have experience representing sellers, buyers, majority and minority shareholders, both public and private acquired companies, and financiers in a wide variety of operations, including mergers, divisions, business partnerships, public and private share acquisition offers, corporate reorganizations and other types of restructurings. We also offer our clients support in the search for strategic partners, capitalists, and other types of business prospects.`,
+
+  [tokens.areas.tributaria.title]: 'TAXATION',
+
+  [tokens.areas.tributaria.description]: `
+  Our multidisciplinary team supports companies from their formation until their dissolution. We excel in assisting our clients through all cycles, especially in complex planning and transactions. We review and support their contractual operations. We also represent them administratively and judicially.
+
+  We are trained to correctly assess the risks related to tax matters. Our responses, whether verbal or written, are always preceded by a thorough study of the scope of what is intended to be done. We prioritize completing business in the best possible way, that is, with the minimum of contingencies, and always maximizing tax benefits. All within the framework of legality. Our work includes the analysis - mostly in the form of legal opinions and memoranda - of the tax implications of a specific transaction or business model that our clients may have or be planning, as well as the review of the tax situation of companies within their business groups.
+
+  In addition to providing a solid defense in administrative and judicial forums, our approach is based on proposing mechanisms, agreements, and approaching authorities. We design and implement strategies aimed at achieving an administrative solution to tax conflicts or disputes, We have achieved this in several cases, some of them quite high-profile.
+  
+  Without being exhaustive, tax services include:
+
+      1. Tax advice: We assist businesses in complying with their tax obligations appropriately and efficiently. We have prepared legal reports for significant tax cases, even for the SII.
+
+      2. Tax planning: We develop strategies and plans to minimize a company's tax burden, always respecting current legislation.
+
+      3. Preparation and review of tax returns: This service includes the preparation and review of companies' tax returns.
+
+      4. Tax auditing: This service is responsible for reviewing and verifying a company's compliance with its tax obligations.
+
+      5. Defense and representation before the tax authority: When there is a disagreement between the taxpayer and the tax authorities, we represent and defend the taxpayer.
+
+      6. Consulting on transfer pricing: This service offers advice on regulations and requirements related to transfer pricing.
+
+      7. Advice on indirect taxes: Offers advice on taxes such as VAT, excise taxes, etc.
+
+      8. Advice on international tax compliance: This service offers advice on complying with international tax obligations.
+
+      9. Management of Accounting and Payrolls: This service manages accounting and payroll in relation to taxes.
+
+      10. Advice on companies' tax structure: This service provides advice on how to structure a company to be more tax-efficient.
+
+      11. Advice on mergers and acquisitions: This service offers advice on the tax aspects of mergers and acquisitions.
+
+      12. Advice on income and wealth taxes: This service provides advice on how to manage income and wealth taxes.
+  
+  These services may vary from one country to another due to differences in tax legislation and regulations.`,
+  
+  [tokens.areas.laboral.title]: 'WORKPLACE',
+
+  [tokens.areas.laboral.description]: `
+  We commit ourselves to various areas of companies and their needs. We provide solutions and specialized advice on the different requirements and challenges that arise in organizations.
+
+  We assist companies with common doubts arising from the application of labor law. We support collective negotiations and relations with unions with a specialized leader.
+
+  We represent them before the administrative authority (Labor Directorate) and in labor courts and courts.
+  
+  Without being exhaustive, our consultancy includes:
+
+      1. After recruitme0nt and staff selection, we draft the employment contract. We assist in its modifications, and at the end of the employment relationship, with the drafting of the corresponding settlements.
+
+      2. We organize and give talks and update seminars. We also send newsletters, with updates on labor laws, and decisions from the Labor Directorate.
+
+      3. Compensation and benefits: Compensation and benefits services refer to the structuring of compensation plans, considering tax implications.
+
+      4. Labor relations: We manage relations between management and employees, handling any labor conflict and maintaining good labor relations.
+
+      5. Compliance with labor laws and regulations: We ensure that the company complies with all applicable labor laws and regulations.
+
+      6. Workplace health and safety management: We ensure that regulations and contracts include obligations aimed at preserving the work climate, in order to guarantee safe and healthy work.
+
+      7. Human resources management: This service covers a wide range of responsibilities, including maintaining employee records, managing benefits, and implementing policies and procedures.
+
+      8. Labor consultancy: Solving complex problems related to staff, productivity, work climate, etc.
+
+      9. Equality and diversity policies: We ensure that all employees are treated fairly, regardless of their race, sex, sexual orientation, religion, age, disability, etc.`,
 
 };

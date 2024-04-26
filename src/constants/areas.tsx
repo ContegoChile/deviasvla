@@ -13,7 +13,7 @@ const categories: CategoryItems[] = [
     {
       title: 'FUSIONES Y ADQUISICIONES',
       icon: '/assets/icons/ic_file.svg', // Replace with the correct path
-      code : 'fusiones-adquisiciones'
+      code : 'fusiones_adquisiciones'
     },
     {
       title: 'TRIBUTARIA',

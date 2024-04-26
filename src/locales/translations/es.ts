@@ -694,7 +694,83 @@ export const es = {
 
       7. Proporciona orientación sobre cómo debe dirigirse la corporación para ser justa y transparente con sus accionistas.
       
-  Esto no es una lista exhaustiva, pero cubre muchos de los servicios clave que se pueden esperar de un área legal corporativa. Cada corporación puede tener necesidades específicas dependiendo de su tamaño, industria y ubicación geográfica.
-  `,
-  
+  Esto no es una lista exhaustiva, pero cubre muchos de los servicios clave que se pueden esperar de un área legal corporativa. Cada corporación puede tener necesidades específicas dependiendo de su tamaño, industria y ubicación geográfica.`,
+
+  [tokens.areas.fusiones_adquisiciones.title]: 'FUSIONES Y ADQUISICIONES',
+
+  [tokens.areas.fusiones_adquisiciones.description]: `
+  Asistimos y representamos a los clientes en todas las etapas de una negociación y/o transacción empresarial. Partiendo por el due dilligence, el MOU, y terminando con la redacción y perfeccionamiento de los acuerdos y contratos finales, incluyendo transacciones de acciones y activos, fusiones internacionales, acuerdos de joint venture, tomas de control y ofertas de canje de sociedades listadas.
+
+  En las reestructuraciones empresariales, nos ocupamos especialmente con la administración de la corporación, que la operación tenga por finalidad mejorar o facilitar las condiciones del negocio; así como obtener ventajas competitivas; financiamiento; la eliminación o mitigación de costos o riesgos; aumentar la capacidad productiva o de presencia en el mercado; optimizar la administración o cualquier otra finalidad similar a las anteriormente señaladas y que, en cualquier caso, sea distinta a la meramente tributaria.
+
+  Ponemos también a disposición de nuestros clientes todo el equipo multidisciplinario que ejerce en VLA para asegurar que las transacciones y negocios que revisamos se perfeccionen de la mejor forma para los intereses del cliente. 
+
+  Tenemos experiencia representando vendedores, compradores, accionistas mayoritarios y minoritarios, a la sociedad adquirida, tanto abierta como cerrada, y a los financistas en una gran variedad de operaciones, incluyendo fusiones, divisiones, asociaciones comerciales, ofertas públicas y privadas de adquisición de acciones, reorganizaciones societarias y otros tipos de reestructuraciones. También ofrecemos a nuestros clientes apoyo en la búsqueda de socios estratégicos, capitalistas, y otras clases de prospectos comerciales.`,
+
+  [tokens.areas.tributaria.title]: 'TRIBUTARIA',
+
+  [tokens.areas.tributaria.description]: `
+  Nuestro equipo multidisciplinario apoya a las empresas desde que se forman hasta que se liquidan. Destacamos por asistir a nuestros clientes en todos los ciclos, y especialmente en planeamientos y transacciones complejas. Revisamos y apoyamos su operatoria contractual. También los representamos administrativa y judicialmente. 
+
+  Estamos capacitados para evaluar correctamente los riesgos relativos a materias tributarias. Nuestras respuestas sean verbales o por escrito, siempre se preceden de un estudio acabado de los alcances de lo que se quiere hacer. Privilegiamos que los negocios se hagan del mejor modo posible, esto es, con el mínimo de contingencias, y maximizando siempre los beneficios tributarios. Todo en el marco de la legalidad. Nuestro trabajo incluye el análisis –mayormente en la forma de opiniones legales y memorandos– de las implicancias tributarias de una transacción específica o modelo de negocios que nuestros clientes puedan tener o estar planificando, así como la revisión de la situación tributaria de sociedades dentro de sus grupos empresariales.
+
+  Junto con entregar una sólida defensa en sede administrativa y judicial, nuestro enfoque se basa en la proposición de mecanismos, acuerdos y acercamiento con las autoridades. Diseñamos e implementamos estrategias orientadas a lograr una solución administrativa de los conflictos o controversias tributarias, cuestión que hemos logrado en varios casos, algunos de ellos bastante mediáticos. 
+
+  Sin ser taxativos, los servicios tributarios incluyen:
+
+      1. Asesoramiento tributario: Asistimos a las empresas para cumplir con sus obligaciones fiscales de forma adecuada y eficiente. Hemos elaborado informes en Derecho para importantes causas tributarias. Incluso para el SII. 
+
+      2. Planeación tributaria: Elaboramos estrategias y planes para minimizar la carga tributaria de una empresa, siempre respetando la legislación vigente.
+
+      3. Presentación y revisión de declaraciones de impuestos: Este servicio comprende la preparación y revisión de las declaraciones de impuestos de las empresas.
+
+      4. Auditoría fiscal: Este servicio se encarga de revisar y verificar el cumplimiento de las obligaciones fiscales de una empresa.
+
+      5. Defensa y representación ante la autoridad fiscal: Cuando hay un desacuerdo entre el contribuyente y las autoridades fiscales, representamos y defendemos al contribuyente.
+
+      6. Consultoría en precios de transferencia: Este servicio ofrece asesoramiento sobre las regulaciones y requisitos relacionados con los precios de transferencia.
+
+      7. Asesoría en impuestos indirectos: Ofrece asesoramiento en impuestos como el IVA, impuestos especiales, etc.
+
+      8. Asesoría en cumplimiento tributario internacional: Este servicio ofrece asesoramiento para cumplir con las obligaciones tributarias internacionales.
+
+      9. Gestión de Contabilidad y Nóminas: Con este servicio se gestiona la contabilidad y la nómina en relación a los impuestos.
+
+      10.	Asesoría en la estructura fiscal de las empresas: Este servicio proporciona asesoramiento sobre cómo estructurar una empresa para ser más eficiente desde el punto de vista fiscal.
+      
+      11.	Asesoramiento en fusiones y adquisiciones: Este servicio ofrece asesoramiento sobre los aspectos fiscales de las fusiones y adquisiciones.
+
+      12.	Asesoría en impuestos sobre la renta y sobre el patrimonio: Este servicio proporciona asesoramiento sobre cómo gestionar los impuestos sobre la renta y el patrimonio.
+
+  Estos servicios pueden variar de un país a otro debido a las diferencias en la legislación y las regulaciones fiscales.`,
+
+  [tokens.areas.laboral.title]: 'LABORAL',
+
+  [tokens.areas.laboral.description]: `
+  Nos comprometemos con distintas áreas de las empresas y sus necesidades. Entregamos solución y asesoría especializada en los distintos requerimientos y desafíos que surgen en las organizaciones.
+
+  Asistimos a las empresas en las dudas comunes que presenta la aplicación de la ley laboral. Apoyamos con un líder especializado las negociaciones colectivas y la relación con los sindicatos.
+
+  Las representamos ante la autoridad administrativa (Dirección del Trabajo) y en los tribunales laborales y en las Cortes.
+
+  Sin ser taxativos, nuestra asesoría incluye:
+
+      1. Tras el reclutamiento y la selección de personal, redactamos el contrato de trabajo. Asistimos en sus modificaciones, y en el término de la relación laboral, con la redacción de los finiquitos correspondientes.
+
+      2. Organizamos e impartimos charlas y seminarios de actualización. Remitimos también news letter, con actualización de las leyes laborales, y los dictámenes de la Dirección del Trabajo.
+
+      3. Remuneración y beneficios: Los servicios de remuneración y beneficios se refieren a la estructuración de planes de compensación, considerando los alcances tributarios.
+
+      4. Relaciones laborales: Gestionamos las relaciones entre la dirección y los empleados, manejando cualquier conflicto laboral y manteniendo las buenas relaciones laborales.
+
+      5. Cumplimiento de leyes y regulaciones laborales: Procuramos que la empresa cumpla con todas las leyes y regulaciones laborales aplicables.
+
+      6. Gestión de la salud y seguridad en el lugar de trabajo: Nos ocupamos de que los reglamentos y los contratos incluyan obligaciones orientadas a preservar el clima laboral, para efecto de garantizar un trabajo seguro y saludable.
+
+      7. Administración de recursos humanos: Este servicio abarca una amplia gama de responsabilidades, incluyendo el mantenimiento de registros de empleados, la gestión de beneficios y la implementación de políticas y procedimientos.
+
+      8. Consultoría laboral: Resolviendo problemas complejos relacionados con el personal, la productividad, el clima laboral, etc.
+
+      9. Políticas de igualdad y diversidad: Procuramos que todos los empleados sean tratados de manera justa, independientemente de su raza, sexo, orientación sexual, religión, edad, discapacidad, etc.`,
+
 };
