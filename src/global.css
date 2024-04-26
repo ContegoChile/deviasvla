@@ -28,3 +28,14 @@
 /* Remove if mapbox is not used */
 @import '~mapbox-gl/dist/mapbox-gl.css';
 
+.whiteSpace{
+    white-space : pre-wrap
+}
+
+.textAlignJustify {
+    text-align: justify
+}
+
+.lineHeight-1 {
+    line-height: 1.6 !important;
+}

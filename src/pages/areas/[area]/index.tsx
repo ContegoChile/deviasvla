@@ -8,15 +8,19 @@ import {useTheme} from "@mui/material/styles";
 import categories from "src/constants/areas";
 import SvgColor from "src/components/svg-color";
 import { useRouter } from "next/router";
+import { useTranslation } from "react-i18next";
+import { tokens } from "src/locales/tokens";
+import { areas } from './../../../api/blog/data';
 
 function Page() {
-    const router = useRouter();
+
+    const { t } = useTranslation();
 
     const params = useParams() ; 
     const theme = useTheme();
 
-    const [title, setTitle] = useState<string>("");
     const [image, setImage] = useState<string>("");
+    const [code, setCode] = useState<string>("");
 
     useEffect( () => {
 
@@ -25,15 +29,15 @@ function Page() {
             
             const item = categories.find( c => c.code == area );
 
-            setTitle( item?.title ?? "" ) ;
             setImage( item?.icon ?? "" ) ;
+            setCode( item?.code ?? "" ) ;
         }
         
 
     },[params])
     
     
-    return (
+    return  code !== "" && (
         <Container
           maxWidth="lg"
           sx={{
@@ -53,7 +57,7 @@ function Page() {
             pt: { xs: 5, sm: 4, md: 6 }, // Adjust these values as needed
             textAlign: 'center'
           }}>
-             { title }
+             { t(tokens.areas[ code ].title) }
              
             </Typography>
 
@@ -64,20 +68,19 @@ function Page() {
                     width: 80,
                     height: 80,
                     mb: 5,
-
                 }}
             />
          
-            <Typography color="text.secondary" sx={{ ...typography.body1 , px : 3 }} variant="body1">
-                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            <Typography 
+              color="text.secondary" 
+              className="whiteSpace textAlignJustify lineHeight-1"
+              variant="body1"
+              sx={{
+                px: 5
+              }}
+            >
+                { t(tokens.areas[ code ].description) }
             </Typography>
-    
-    
-    
-    
-    
-    
-          {/* ... Other components ... */}
         </Container>
       );
 }

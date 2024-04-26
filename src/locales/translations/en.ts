@@ -616,8 +616,35 @@ export const en = {
   [tokens.form.publicVideoCaption]: 'Everyone can watch your video',
   [tokens.form.name]: 'Full Name',
   [tokens.headings['File Manager']]: 'File Manager',
-    [tokens.nav.settings]: 'Settings',
-    [tokens.nav.billing]: 'Billing',
+  [tokens.nav.settings]: 'Settings',
+  [tokens.nav.billing]: 'Billing',
 
+  //areas
+
+  [tokens.areas.corporativo.title]: 'CORPORATE',
+  [tokens.areas.corporativo.description]: `
+    We provide advice on all corporate aspects of companies, their internal operations, structure and organization, the rights and duties of shareholders and directors, or partners and administrators, the relationship that the company should maintain with state entities and authorities, society and various commercial agents, among other aspects.
+  
+    After the publication of Law Number 21,595, which systematizes economic offenses and regulates the penalties and additional consequences applicable to those responsible for these crimes, particularly legal entities, it is necessary that, in all corporate activities, not only specialists in the area are involved, but also other professionals.
+  
+    VLA has a multidisciplinary team of specialists who collectively address the increasingly complex needs of clients. Their vast experience, coupled with their reputation and track record, allows their advice to provide the certainty and clarity that clients need to make their decisions.
+    
+    Without being exhaustive, this service includes:
+
+      1. The creation and modification of companies, as well as their restructuring.
+
+      2. The drafting of shareholder agreements and bylaws with ad-hoc safeguard clauses.
+
+      3. Assistance as a secretary in shareholder meetings and board sessions.
+
+      4. The recording and custody of the company's registries.
+
+      5. Assistance in drafting contracts, with the support of other office areas when necessary.
+
+      6. Assistance in complying with the regulations and norms in force in the industry and geographical location where it operates.
+
+      7. Provides guidance on how the corporation should be run to be fair and transparent to its shareholders.
+      
+    This is not an exhaustive list, but it does cover many of the key services that can be expected from a corporate legal department. Each corporation may have specific needs depending on its size, industry, and geographical location.` ,
 
 };

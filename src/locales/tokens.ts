@@ -1,4 +1,4 @@
-export const tokens = {
+export const tokens : any = {
   common: {
     languageChanged: 'common.languageChanged',
   },
@@ -480,7 +480,13 @@ headings: {
     forgotPassword: 'form.forgotPassword',
     policy: 'form.policy',
     termsAndConditions: 'form.termsAndConditions',
-    register: 'form.register'
+    register: 'form.register',
+  },
+  areas: {
+    corporativo : {
+      title : 'areas.corporativo.title',
+      description : 'areas.corporativo.description',
+    },
   }
 
 };

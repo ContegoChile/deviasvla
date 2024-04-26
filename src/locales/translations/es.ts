@@ -669,4 +669,32 @@ export const es = {
   [tokens.headings.team]: 'Equipo',
   [tokens.headings.portfolio]: 'Portafolio',
 
+  //areas
+  [tokens.areas.corporativo.title]: 'CORPORATIVO',
+  [tokens.areas.corporativo.description]: `
+  Prestamos asesoría en todos los aspectos corporativos de las empresas, su funcionamiento interno, su estructura y organización, los derechos y deberes de los accionistas y directores o los socios y administradores,  la relación que debe mantener la compañía con los entes y autoridades estatales, la sociedad y los distintos agentes comerciales, entre otros aspectos.
+
+  Tras la publicación de la Ley Número 21.595, que sistematiza los delitos económicos y regula las penas y consecuencias adicionales aplicables a las personas responsables de estos delitos, particularmente de las personas jurídicas, se hace necesario que, en todas las actividades de carácter corporativo, se involucren no solo los especialistas del área, sino que también otros profesionales.
+
+  VLA dispone de un equipo multidisciplinario de especialistas que abordan en conjunto las necesidades cada vez más compleja de los clientes. Su vasta experiencia, sumada a su reputación y trayectoria, permite dotar a su asesoría de la certeza y claridad que los clientes necesitan para adoptar sus decisiones.
+
+  Sin ser taxativos, en este servicio se incluye:
+
+      1. La creación, y modificación de sociedades. También su reestructuración.
+
+      2. La elaboración de pactos de accionistas y estatutos con cláusulas ad-hoc de resguardo.
+
+      3. La asistencia como secretario en las Juntas de accionistas y sesiones de directorio.
+
+      4. El registro y custodia de los registros de la empresa.
+
+      5. La asistencia en la redacción de contratos, con el apoyo de otras áreas de la oficina, cuando ello sea necesario.
+
+      6. La asistencia en el cumplimiento de las regulaciones y normas vigentes en la industria y ubicación geográfica donde opera.
+
+      7. Proporciona orientación sobre cómo debe dirigirse la corporación para ser justa y transparente con sus accionistas.
+      
+  Esto no es una lista exhaustiva, pero cubre muchos de los servicios clave que se pueden esperar de un área legal corporativa. Cada corporación puede tener necesidades específicas dependiendo de su tamaño, industria y ubicación geográfica.
+  `,
+  
 };
