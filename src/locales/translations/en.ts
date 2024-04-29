@@ -724,4 +724,66 @@ export const en = {
 
       9. Equality and diversity policies: We ensure that all employees are treated fairly, regardless of their race, sex, sexual orientation, religion, age, disability, etc.`,
 
+  [tokens.areas.aguas.title]: 'WATER RIGHTS',
+  
+  [tokens.areas.aguas.description]: `
+  We study and propose solutions regarding water utilization rights, for both agricultural and industrial or sanitary use. We evaluate different variables related to the right and its specific market. We process all kinds of concessions and authorizations related to water utilization rights and their complementary works before the state administration bodies competent in Water Rights and Administrative Law in general. We manage the regularization and perfection of water rights titles. We advise and represent clients when they register discrepancies with the patent charge for non-use and all kinds of inspections related to the exercise of their water utilization rights. We advise and represent clients in negotiations or disputes related to the exercise of their water utilization rights.`,
+
+  [tokens.areas.litigios.title]: 'LITIGATION',
+
+  [tokens.areas.litigios.description]: `
+  Our office has a team composed of specialists, who are well-positioned to provide superior service in the area of disputes, be they administrative (especially tax and SERNAC) or judicial, whether in ordinary or arbitration courts.
+
+  We prepare defense maps. We structure case theories, and put together and lead defense teams in all scenarios, including arguing before higher courts (Court of Appeals, Supreme Court), or special tribunals.
+
+  We wish to emphasize that our lawyers have successfully represented their clients in all areas, and that many of them have made a public impact due to their media presence. We also wish to underscore that we coordinate with other firms, and on numerous occasions provide the necessary professional support for administrative and/or contractual implementations.
+
+  Without being exhaustive, the following are included under this service:
+  
+      1. Legal advice: We provide legal advice on how to proceed with a particular case. This may involve assessing the merits of a case, filing the appropriate legal documents, advising on the correct legal strategy, and other related advice.
+
+      2. Court representation: We represent clients in court to defend their rights and present their arguments.
+
+      3. Settlement negotiations: Whenever possible, we assist in negotiating settlements out of court in order to resolve disputes in a quicker and more efficient manner.
+
+      4. Mediation and arbitration: Instead of going to court, parties can sometimes opt for alternative dispute resolution methods, such as mediation and arbitration. These processes are generally shorter and less expensive than a trial.
+
+      5. Investigation and evidence gathering: We can take on the task of conducting investigations and gathering evidence for use in court.
+
+      6. Drafting legal documents: We prepare and submit not only the styled complaints in trials but also draft a variety of legal documents, such as minutes, reports, reconciliation and/or mediation proposals.
+
+      7. Consultations and compliance confirmation: We work with clients in a preventive context. We provide advice on how to comply with the law to avoid litigation in the future.
+
+      8. Crisis management: In situations where litigation can have serious repercussions on a company's or individual's reputation, we provide appropriate support and strategic guidance.
+
+      9. Expert testimony: We work with experts to strengthen your case and provide compelling testimony to the court.
+
+      10. Legal reports: Specialized study, with consultation of bibliography, jurisprudence and comparative law on some point of interpretation of the law.`,
+   
+  [tokens.areas.conflictos_arbitraje.title]: 'ARBITRATION',
+
+  [tokens.areas.conflictos_arbitraje.description]: `
+  We have experience in arbitration. We have participated in numerous arbitration trials, both before arbitrator judges or arbitrators from the Santiago Chamber of Commerce (CAM). Also before the International Chamber of Commerce (ICC), the International Centre for Settlement of Investment Disputes (ICSID), the American Arbitration Association's International Center for Dispute Resolution (ICDR), the London Court of International Arbitration (LCIA) and the United Nations Commission on International Trade Law (UNCITRAL).`,
+
+  [tokens.areas.proteccion_consumidor.title]: 'CONSUMER PROTECTION',
+
+  [tokens.areas.proteccion_consumidor.description]: `
+  We have a team of lawyers experienced in Consumer Protection Law. We review and correct adhesion contracts to prevent abusive clauses. We also respond to official communications and inspections from Sernac. We answer consumer complaints, and represent companies in all judicial instances, always seeking rapprochement and/or conciliation, whether through individual or collective actions. 
+
+  Without being exhaustive, our services include:
+
+      1. Legal advice: We identify operation risks, and contingencies in interactions with consumers. We propose and draft safeguard clauses.
+
+      2. Representation in litigation: We defend the company against infraction complaints, individual and/or collective compensatory lawsuits.
+
+      3. Dispute resolution: We negotiate agreements between the company and consumers.
+
+      4. Assistance in formal complaints: We document risk situations, and present complaints to organizations that protect consumers.
+
+      5. Investigation: We review the relevant evidence and documentation to build a strong case.`,
+
+  [tokens.areas.medio_ambiente.title]: 'ENVIRONMENT',
+
+  [tokens.areas.medio_ambiente.description]: `
+  Environmental and regulatory compliance has become one of the most significant aspects of the development and operation of any industrial and service project. We advise clients from the energy, mining, hydrocarbon, sanitation, forestry, agricultural, wine and other industries in assessing their environmental risks, reviewing and resolving their environmental issues, and providing legal assistance in their permit acquisition processes. We are capable of offering a global service to our clients, advising them not only from a regulatory and environmental perspective, but also in their financing processes, project development, and mergers and acquisitions, and in the ever-increasing number of environmental disputes that have arisen in the recently created Environmental Courts and Superintendency of the Environment.`
 };

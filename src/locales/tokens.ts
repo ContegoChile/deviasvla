@@ -500,6 +500,35 @@ headings: {
       title : 'areas.laboral.title',
       description : 'areas.laboral.description',
     },
+    contratacion_nacional_internacional : {
+      title : 'areas.contratacion_nacional_internacional.title',
+      description : 'areas.contratacion_nacional_internacional.description',
+    },
+    inmobiliaria : {
+      title : 'areas.inmobiliaria.title',
+      description : 'areas.inmobiliaria.description',
+    },
+    aguas : {
+      title : 'areas.aguas.title',
+      description : 'areas.aguas.description',
+    },
+    litigios : {
+      title : 'areas.litigios.title',
+      description : 'areas.litigios.description',
+    },
+    conflictos_arbitraje : {
+      title : 'areas.conflictos_arbitraje.title',
+      description : 'areas.conflictos_arbitraje.description',
+    },
+    proteccion_consumidor : {
+      title : 'areas.proteccion_consumidor.title',
+      description : 'areas.proteccion_consumidor.description',
+    },
+    medio_ambiente : {
+      title : 'areas.medio_ambiente.title',
+      description : 'areas.medio_ambiente.description',
+    },
+    
   }
 
 };

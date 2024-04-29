@@ -28,7 +28,7 @@ const categories: CategoryItems[] = [
     {
       title: 'CONTRATACIÓN NACIONAL E INTERNACIONAL',
       icon: '/assets/icons/ic_service_analysis.svg', // Replace with the correct path,
-      code : 'contratacion-nacional-internacional'
+      code : 'contratacion_nacional_internacional'
     },
     {
       title: 'INMOBILIARIA, INGENIERÍA Y CONSTRUCCIÓN',
@@ -67,14 +67,14 @@ const categories: CategoryItems[] = [
       code : 'aguas'
     },
     { title: 'LITIGIOS', icon: '/assets/icons/gavel_2.svg', code : 'litigios' },
-    { title: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE', icon: '/assets/icons/shake.svg' , code: 'conflictos-arbitraje' },
+    { title: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE', icon: '/assets/icons/shake.svg' , code: 'conflictos_arbitraje' },
     { title: 'LIBRE COMPETENCIA', icon: '/assets/icons/free.svg', code: 'libre-competencia' },
     { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: '/assets/icons/const.svg' , code: 'constitucional-administrativo' },
     { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: '/assets/icons/law.svg' , code : 'informes-especializados-derecho' },
     { title: 'CONFLICTOS DE LEYES Y JURISDICCIÓN', icon: '/assets/icons/conflicts.svg', code : 'conflictos-leyes-juridiccion' },
-    { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: '/assets/icons/protect.svg', code : 'proteccion-consumidor' },
+    { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: '/assets/icons/protect.svg', code : 'proteccion_consumidor' },
     { title: 'INSOLVENCIA Y REORGANIZACIÓN EMPRESARIAL', icon: '/assets/icons/reorg.svg' , code : 'insolvencia-reorganizacion-empresarial' },
-    { title: 'MEDIO AMBIENTE', icon: '/assets/icons/environ.svg' , code : 'medio-ambiente' },
+    { title: 'MEDIO AMBIENTE', icon: '/assets/icons/environ.svg' , code : 'medio_ambiente' },
     { title: 'AGROINDUSTRIA', icon: '/assets/icons/AGROIN.svg' , code : 'agroindustria' },
     { title: 'EDUCACIÓN', icon: '/assets/icons/edu.svg', code : 'educacion'},
     { title: 'PRÁCTICA GENERAL', icon: '/assets/icons/general.svg' , code : 'practica-general' },

@@ -772,5 +772,68 @@ export const es = {
       8. Consultoría laboral: Resolviendo problemas complejos relacionados con el personal, la productividad, el clima laboral, etc.
 
       9. Políticas de igualdad y diversidad: Procuramos que todos los empleados sean tratados de manera justa, independientemente de su raza, sexo, orientación sexual, religión, edad, discapacidad, etc.`,
+  
+  [tokens.areas.aguas.title]: 'AGUAS',
 
+  [tokens.areas.aguas.description]: `
+  Estudiamos y proponemos soluciones respecto de derechos de aprovechamiento de aguas, tanto para su uso agrícola como industrial o sanitario. Evaluamos distintas variables relativas al derecho y su mercado específico. Tramitamos toda clase de concesión y autorizaciones relativas a derechos de aprovechamiento de aguas y sus obras complementarias ante los órganos de la administración del Estado con competencia en Derecho de Aguas y Derecho Administrativo en general. Gestionamos la regularización y perfeccionamiento de títulos de derechos de aguas. Asesoramos y representamos a los clientes cuando registran discrepancias con el cobro de patente por no uso y toda clase de fiscalizaciones con motivo del ejercicio de sus derechos de aprovechamiento. Asesoramos y representamos a los clientes frente a negociaciones o litigios relativos al ejercicio de sus derechos de aprovechamiento de aguas.`,
+
+  [tokens.areas.litigios.title]: 'LITIGIOS',
+
+  [tokens.areas.litigios.description]: `
+  Nuestra oficina dispone de un equipo conformado por especialistas, que están en posición de proveer el mejor servicio en el área de controversias, sean administrativas (especialmente tributarias y SERNAC) como judiciales, y sea ésta en tribunales ordinarios o arbitrales. 
+
+  Elaboramos mapas de defensa. Estructuramos teorías del caso, y conformamos y lideramos equipos de defensa en todos los escenarios, incluyendo alegatos ante los Tribunales superiores (Corte Apelaciones, Corte Suprema), o Tribunales especiales.
+
+  Nos permitimos enfatizar que nuestros abogados han representado con éxito a sus clientes en todos los ámbitos, y que varios de ellos han trascendido a la opinión pública, por su carácter mediático. Subrayamos también que nos coordinamos con otros estudios, y que en no pocas ocasiones entregamos el soporte profesional necesario para las implementaciones administrativas y/o contractuales.
+
+  Sin ser taxativos, bajo este servicio se incluye:
+
+      1. Asesoramiento legal: Proporcionamos asesoramiento legal sobre cómo proceder con un determinado caso. Esto puede implicar la evaluación de los méritos de un caso, la presentación de documentos legales adecuados, el asesoramiento sobre la estrategia legal adecuada y otros consejos relacionados.
+
+      2. Representación en juicio: Representamos a los clientes ante los tribunales para defender sus derechos y presentar sus argumentos.
+
+      3. Negociaciones de acuerdos: Cuando es posible, ayudamos a negociar acuerdos fuera de tribunales para resolver las disputas de manera más rápida y efectiva.
+
+      4. Mediación y arbitraje: En lugar de ir a juicio, a veces las partes pueden optar por métodos alternativos de resolución de disputas, como la mediación y el arbitraje. Estos procesos son generalmente más cortos y menos costosos que un juicio.
+
+      5. Investigación y recolección de pruebas: Podemos hacernos cargo de realizar investigaciones y recopilaciones de pruebas que se utilizarán en juicio.
+
+      6. Redacción de documentos legales: Elaboramos y presentamos no solo los escritos de estilo en los juicios, sino que también redactamos una variedad de documentos legales, como minutas, informes, propuestas de conciliación y/o mediación.
+      
+      7. Consultas y confirmación de cumplimiento: Trabajamos con los clientes en un contexto preventivo. Les brindamos asesoramiento sobre cómo cumplir con la ley para evitar litigios en el futuro.
+
+      8. Gestión de crisis: En situaciones en las que un litigio puede tener graves repercusiones en la reputación de una empresa o individuo, proporcionamos con los apoyos que correspondan, una guía estratégica.
+
+      9. Testimonio de expertos: Trabajamos con expertos para consolidar su caso y proporcionar un testimonio convincente a la corte.
+
+      10. Informes en derecho: Estudio especializado, con consulta de bibliografía, jurisprudencia y derecho comparado sobre algún punto de interpretación de la ley.`,
+
+
+  [tokens.areas.conflictos_arbitraje.title]: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE',
+
+  [tokens.areas.conflictos_arbitraje.description]: `
+  Tenemos experiencia en arbitraje. Hemos participado en numerosos juicios arbitrales, sea ante jueces árbitros o ante árbitros de la Cámara de Comercio de Santiago (CAM). También ante la Cámara de Comercio Internacional (CCI), el Centro Internacional de Arreglo de Diferencias Relativas a Inversiones (CIADI), el Centro Internacional para la Resolución de Disputas de la Asociación Americana de Arbitraje (CIRD), la Corte de Arbitraje Internacional de Londres (LCIA) y la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (UNCITRAL).`,
+
+  [tokens.areas.proteccion_consumidor.title]: 'PROTECCIÓN AL CONSUMIDOR',
+
+  [tokens.areas.proteccion_consumidor.description]: `
+  Tenemos un equipo de abogados con experiencia en la Ley de Protección al Consumidor. Revisamos y corregimos los contratos de adhesión para evitar cláusulas abusivas. Respondemos también oficios y fiscalizaciones del Sernac. Contestamos los reclamos de consumidores, y representamos a las empresas en todas las instancias judiciales, procurando siempre el acercamiento y/o conciliación, sea por acciones individuales o colectivas.
+
+  Sin ser taxativos, nuestros servicios incluyen:
+
+      1. Asesoramiento legal: Identificamos los riesgos de la operación, y las contingencias en la interacción con los consumidores. Proponemos y redactamos cláusulas de resguardo.
+      
+      2. Representación en litigios: Defendemos a la empresa ante denuncias infraccionales, y demandas indemnizatorias individuales y/o colectivas.
+      
+      3. Resolución de disputas: Negociamos acuerdos entre la empresa y los consumidores.
+      
+      4. Asistencia en quejas formales: Documentamos situaciones de riesgo, y presentamos quejas a las organizaciones que protegen al consumidor.
+      
+      5. Investigación: Revisamos la evidencia y la documentación pertinentes para construir un caso sólido.`,
+  
+  [tokens.areas.medio_ambiente.title]: 'MEDIO AMBIENTE',
+
+  [tokens.areas.medio_ambiente.description]: `
+  El cumplimiento ambiental y regulatorio se ha convertido en uno de los aspectos más relevantes del desarrollo y operación de cualquier proyecto industrial y de servicios. Asesoramos a clientes de la industria energética, minera, de hidrocarburos, sanitaria, forestal, agrícola, vitivinícola y otras en la evaluación de sus riesgos ambientales, la revisión y solución de sus temas y conflictos ambientales, y la asistencia legal en sus procesos de obtención de permisos. Somos capaces de ofrecer un servicio global a nuestros clientes, asesorándolos no sólo desde la perspectiva regulatoria y ambiental, sino también en sus procesos de financiamiento, desarrollo de proyectos, y fusiones y adquisiciones, y en el número creciente de disputas ambientales que han surgido en los recientemente creados Tribunales Ambientales y Superintendencia del Medio Ambiente.`
 };
