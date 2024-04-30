@@ -835,5 +835,27 @@ export const es = {
   [tokens.areas.medio_ambiente.title]: 'MEDIO AMBIENTE',
 
   [tokens.areas.medio_ambiente.description]: `
-  El cumplimiento ambiental y regulatorio se ha convertido en uno de los aspectos más relevantes del desarrollo y operación de cualquier proyecto industrial y de servicios. Asesoramos a clientes de la industria energética, minera, de hidrocarburos, sanitaria, forestal, agrícola, vitivinícola y otras en la evaluación de sus riesgos ambientales, la revisión y solución de sus temas y conflictos ambientales, y la asistencia legal en sus procesos de obtención de permisos. Somos capaces de ofrecer un servicio global a nuestros clientes, asesorándolos no sólo desde la perspectiva regulatoria y ambiental, sino también en sus procesos de financiamiento, desarrollo de proyectos, y fusiones y adquisiciones, y en el número creciente de disputas ambientales que han surgido en los recientemente creados Tribunales Ambientales y Superintendencia del Medio Ambiente.`
+  El cumplimiento ambiental y regulatorio se ha convertido en uno de los aspectos más relevantes del desarrollo y operación de cualquier proyecto industrial y de servicios. Asesoramos a clientes de la industria energética, minera, de hidrocarburos, sanitaria, forestal, agrícola, vitivinícola y otras en la evaluación de sus riesgos ambientales, la revisión y solución de sus temas y conflictos ambientales, y la asistencia legal en sus procesos de obtención de permisos. Somos capaces de ofrecer un servicio global a nuestros clientes, asesorándolos no sólo desde la perspectiva regulatoria y ambiental, sino también en sus procesos de financiamiento, desarrollo de proyectos, y fusiones y adquisiciones, y en el número creciente de disputas ambientales que han surgido en los recientemente creados Tribunales Ambientales y Superintendencia del Medio Ambiente.`,
+
+  [tokens.areas.constitucional_administrativo.title]: 'CONSTITUCIONAL Y ADMINISTRATIVO',
+
+  [tokens.areas.constitucional_administrativo.description]: `
+  Representamos a numerosos clientes ante las autoridades administrativas, públicas, órganos centralizados y descentralizados a nivel nacional y local, y cuerpos regulatorios.
+  
+  Sin ser taxativos, nuestros servicios incluyen:
+
+  1. Asesoramiento legal en derecho administrativo: Esto incluye la interpretación y aplicación de normas administrativas, la preparación de solicitudes y reclamaciones, y la representación en procedimientos administrativos y judiciales.
+
+  2. Procedimientos administrativos: Manejamos todos los aspectos de los procedimientos administrativos, incluyendo la presentación de solicitudes y recursos, la representación en audiencias y la apelación de decisiones administrativas.
+
+  3. Licencias y permisos: Ayudamos a las empresas a obtener y mantener las licencias y permisos necesarios para sus operaciones. Esto puede incluir licencias de negocios, permisos de construcción, licencias de licores y permisos ambientales.
+
+  4. Contratación pública: Asesoramos a las empresas en el proceso de licitación y contratación pública, incluyendo la preparación de ofertas y la representación en disputas de contratación.
+  
+  5. Cumplimiento regulador: Asesoramos a las empresas sobre cómo cumplir con las regulaciones gubernamentales. Esto puede incluir la interpretación de nuevas regulaciones, la realización de auditorías de cumplimiento y la defensa en procedimientos de cumplimiento.
+
+  6. Responsabilidad administrativa: Esto incluye la defensa de los clientes en casos de responsabilidad administrativa, que puede resultar de violaciones de regulaciones o normas administrativas.
+
+  7. Resolución de disputas administrativas: Representamos a los clientes en disputas con agencias gubernamentales o entidades reguladoras.`
+
 };

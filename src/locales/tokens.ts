@@ -431,6 +431,15 @@ headings: {
     nelsonLanguages: 'form.nelsonLanguages',
     nelsonBio: 'form.nelsonBio',
 
+    martinCamperoMantelliTitle: 'form.martinCamperoMantelliTitle',
+    martinCamperoMantelliIntro: 'form.martinCamperoMantelliIntro',
+    martinCamperoMantelliEducation: 'form.martinCamperoMantelliEducation',
+    martinCamperoMantelliExperiencePro: 'form.martinCamperoMantelliExperiencePro',
+    martinCamperoMantelliProfessionalAca: 'form.martinCamperoMantelliProfessionalAca',
+    martinCamperoMantelliPublications: 'form.martinCamperoMantelliPublications',
+    martinCamperoMantelliLanguages: 'form.martinCamperoMantelliLanguages',
+    martinCamperoMantelliBio: 'form.martinCamperoMantelliBio',
+
     maxTitle: 'form.maxTitle',
     maxIntro: 'form.maxIntro',
     maxEducation: 'form.maxEducation',
@@ -527,6 +536,10 @@ headings: {
     medio_ambiente : {
       title : 'areas.medio_ambiente.title',
       description : 'areas.medio_ambiente.description',
+    },
+    constitucional_administrativo : {
+      title : 'areas.constitucional_administrativo.title',
+      description : 'areas.constitucional_administrativo.description',
     },
     
   }

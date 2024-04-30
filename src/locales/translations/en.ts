@@ -600,6 +600,14 @@ export const en = {
   [tokens.form.maxPublications]: '',
   [tokens.form.maxLanguages]: 'Italian. Spanish.',
 
+  [tokens.form.martinCamperoMantelliBio]: '',
+  [tokens.form.martinCamperoMantelliTitle]: 'Attorney',
+  [tokens.form.martinCamperoMantelliEducation]: 'Law School of Diego Portales University',
+  [tokens.form.martinCamperoMantelliExperiencePro]: 'Admitted to practice in 2024',
+  [tokens.form.martinCamperoMantelliProfessionalAca]: "European Law Bachelor's, at Maastricht University, Netherlands",
+  [tokens.form.martinCamperoMantelliPublications]: '',
+  [tokens.form.martinCamperoMantelliLanguages]: 'Español, Inglés',
+
 
   [tokens.form.private]: 'Private',
   [tokens.form.sendNow]: 'Send Now',
@@ -785,5 +793,26 @@ export const en = {
   [tokens.areas.medio_ambiente.title]: 'ENVIRONMENT',
 
   [tokens.areas.medio_ambiente.description]: `
-  Environmental and regulatory compliance has become one of the most significant aspects of the development and operation of any industrial and service project. We advise clients from the energy, mining, hydrocarbon, sanitation, forestry, agricultural, wine and other industries in assessing their environmental risks, reviewing and resolving their environmental issues, and providing legal assistance in their permit acquisition processes. We are capable of offering a global service to our clients, advising them not only from a regulatory and environmental perspective, but also in their financing processes, project development, and mergers and acquisitions, and in the ever-increasing number of environmental disputes that have arisen in the recently created Environmental Courts and Superintendency of the Environment.`
+  Environmental and regulatory compliance has become one of the most significant aspects of the development and operation of any industrial and service project. We advise clients from the energy, mining, hydrocarbon, sanitation, forestry, agricultural, wine and other industries in assessing their environmental risks, reviewing and resolving their environmental issues, and providing legal assistance in their permit acquisition processes. We are capable of offering a global service to our clients, advising them not only from a regulatory and environmental perspective, but also in their financing processes, project development, and mergers and acquisitions, and in the ever-increasing number of environmental disputes that have arisen in the recently created Environmental Courts and Superintendency of the Environment.`,
+
+  [tokens.areas.constitucional_administrativo.title]: 'ADMINISTRATIVE AND SANCTIONING ADMINISTRATIVE',
+
+  [tokens.areas.constitucional_administrativo.description]: `
+  We represent numerous clients before administrative and public authorities, centralized and decentralized bodies at a national and local level, and regulatory bodies.
+
+  Without being exhaustive, our services include:
+
+      1. Legal advice in administrative law: This includes the interpretation and application of administrative rules, the preparation of applications and claims, and representation in administrative and judicial proceedings.
+
+      2. Administrative proceedings: We handle all aspects of administrative proceedings, including the filing of applications and appeals, representation in hearings, and the appeal of administrative decisions.
+
+      3. Licenses and permits: We help businesses obtain and maintain the licenses and permits necessary for their operations. This may include business licenses, building permits, liquor licenses, and environmental permits.
+
+      4. Public contracting: We advise businesses on the bidding and public contracting process, including the preparation of bids and representation in contracting disputes.
+
+      5. Regulatory compliance: We advise businesses on how to comply with government regulations. This may include the interpretation of new regulations, the conducting of compliance audits, and defense in compliance proceedings.
+
+      6. Administrative liability: This includes defending clients in cases of administrative liability, which may result from violations of regulations or administrative rules.
+
+      7. Resolution of administrative disputes: We represent clients in disputes with government agencies or regulatory entities.`
 };

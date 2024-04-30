@@ -69,7 +69,7 @@ const categories: CategoryItems[] = [
     { title: 'LITIGIOS', icon: '/assets/icons/gavel_2.svg', code : 'litigios' },
     { title: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE', icon: '/assets/icons/shake.svg' , code: 'conflictos_arbitraje' },
     { title: 'LIBRE COMPETENCIA', icon: '/assets/icons/free.svg', code: 'libre-competencia' },
-    { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: '/assets/icons/const.svg' , code: 'constitucional-administrativo' },
+    { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: '/assets/icons/const.svg' , code: 'constitucional_administrativo' },
     { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: '/assets/icons/law.svg' , code : 'informes-especializados-derecho' },
     { title: 'CONFLICTOS DE LEYES Y JURISDICCIÓN', icon: '/assets/icons/conflicts.svg', code : 'conflictos-leyes-juridiccion' },
     { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: '/assets/icons/protect.svg', code : 'proteccion_consumidor' },
