@@ -512,7 +512,13 @@ export const es = {
   [tokens.form.maxPublications]: '',
   [tokens.form.maxLanguages]: 'Italiano. Español.',
 
-
+  [tokens.form.martinCamperoMantelliBio]: '',
+  [tokens.form.martinCamperoMantelliTitle]: 'Abogado',
+  [tokens.form.martinCamperoMantelliEducation]: 'Facultad de Derecho Universidad Diego Portales',
+  [tokens.form.martinCamperoMantelliExperiencePro]: 'Admitido a práctica en 2024',
+  [tokens.form.martinCamperoMantelliProfessionalAca]: 'European Law Bachelor´s, en Maastricht la University, Países Bajos.',
+  [tokens.form.martinCamperoMantelliPublications]: '',
+  [tokens.form.martinCamperoMantelliLanguages]: 'Español, Inglés',
 
 
 
