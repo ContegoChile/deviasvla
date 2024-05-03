@@ -850,18 +850,98 @@ export const es = {
   
   Sin ser taxativos, nuestros servicios incluyen:
 
-  1. Asesoramiento legal en derecho administrativo: Esto incluye la interpretación y aplicación de normas administrativas, la preparación de solicitudes y reclamaciones, y la representación en procedimientos administrativos y judiciales.
+      1. Asesoramiento legal en derecho administrativo: Esto incluye la interpretación y aplicación de normas administrativas, la preparación de solicitudes y reclamaciones, y la representación en procedimientos administrativos y judiciales.
 
-  2. Procedimientos administrativos: Manejamos todos los aspectos de los procedimientos administrativos, incluyendo la presentación de solicitudes y recursos, la representación en audiencias y la apelación de decisiones administrativas.
+      2. Procedimientos administrativos: Manejamos todos los aspectos de los procedimientos administrativos, incluyendo la presentación de solicitudes y recursos, la representación en audiencias y la apelación de decisiones administrativas.
 
-  3. Licencias y permisos: Ayudamos a las empresas a obtener y mantener las licencias y permisos necesarios para sus operaciones. Esto puede incluir licencias de negocios, permisos de construcción, licencias de licores y permisos ambientales.
+      3. Licencias y permisos: Ayudamos a las empresas a obtener y mantener las licencias y permisos necesarios para sus operaciones. Esto puede incluir licencias de negocios, permisos de construcción, licencias de licores y permisos ambientales.
 
-  4. Contratación pública: Asesoramos a las empresas en el proceso de licitación y contratación pública, incluyendo la preparación de ofertas y la representación en disputas de contratación.
+      4. Contratación pública: Asesoramos a las empresas en el proceso de licitación y contratación pública, incluyendo la preparación de ofertas y la representación en disputas de contratación.
+      
+      5. Cumplimiento regulador: Asesoramos a las empresas sobre cómo cumplir con las regulaciones gubernamentales. Esto puede incluir la interpretación de nuevas regulaciones, la realización de auditorías de cumplimiento y la defensa en procedimientos de cumplimiento.
+
+      6. Responsabilidad administrativa: Esto incluye la defensa de los clientes en casos de responsabilidad administrativa, que puede resultar de violaciones de regulaciones o normas administrativas.
+
+      7. Resolución de disputas administrativas: Representamos a los clientes en disputas con agencias gubernamentales o entidades reguladoras.`,
+
+  [tokens.areas.inversion_extranjera.title]: 'INVERSIÓN EXTRANJERA',
+
+  [tokens.areas.inversion_extranjera.description]: `
+  Para las empresas extranjeras que quieran operar en el país, bajo el supervisión y control directo de su matriz, ya sea a través de una filial constituida en Chile o por medio de una agencia, le prestamos el servicio de representación legal y de control fiscal, con el apoyo de los contables y tributarios que trabajan en el equipo.
+
+  Nos ocupamos de los trámites de constitución de la respectiva sociedad y/o agencia, de los registros accionarios y libros sociales en los casos que corresponda, de su iniciación de actividades y obtención del RUT (Rol Único Tributario) ante el Servicio de Impuestos Internos (SII), y de la interacción con las distintas autoridades. También del secretariado corporativo, cuando corresponda al tipos social de que se trate, y del cumplimiento regulatorio en materia de contabilidad e impuestos.
   
-  5. Cumplimiento regulador: Asesoramos a las empresas sobre cómo cumplir con las regulaciones gubernamentales. Esto puede incluir la interpretación de nuevas regulaciones, la realización de auditorías de cumplimiento y la defensa en procedimientos de cumplimiento.
+  Sin ser taxativos, este servicio incluye:
 
-  6. Responsabilidad administrativa: Esto incluye la defensa de los clientes en casos de responsabilidad administrativa, que puede resultar de violaciones de regulaciones o normas administrativas.
+      1. Representar a la empresa ante terceros: Este suele ser uno de los servicios principales incluidos en la representación legal de una empresa. Implica representar a la empresa en diversas situaciones, como en reuniones importantes, negociaciones, y transacciones financieras o comerciales.
 
-  7. Resolución de disputas administrativas: Representamos a los clientes en disputas con agencias gubernamentales o entidades reguladoras.`
+      2. Asesoramiento legal: Este servicio implica proporcionar asesoramiento y orientación legal a la empresa en diversas áreas del derecho. Esto puede incluir la asesoría en temas de contratos, fusiones y adquisiciones, problemas laborales, legislación ambiental y cualquier otra área de la ley que pueda afectar a la empresa.
 
+      3. Mediación y resolución de conflictos: En caso de desacuerdos o conflictos legales con otras empresas o individuos, el representante legal intervendrá para mediar y buscar una solución.
+
+      4. Cumplimiento de las obligaciones legales: Procuramos que la empresa cumpla con todas sus obligaciones legales. Esto puede incluir , entre otros, la presentación de informes financieros, el pago de impuestos y la adherencia a las leyes y regulaciones laborales.
+
+      5. Gestión de contratos: Nos hacemos responsables de la redacción, revisión y negociación de los contratos de la empresa.
+
+      6. Representación en litigios: Nos encargamos de representarla y defenderla cuando la empresa se ve involucrada en cualquier tipo de litigio.
+
+      7. Protección de propiedad intelectual: Protegemos las patentes, marcas registradas, derechos de autor y otros elementos de propiedad intelectual de la empresa.
+
+      8. Asistir en la toma de decisiones: Asistimos a la empresa en cuestiones de política y estrategia, ayudándola a tomar decisiones informadas.
+
+      9. Gestión de temas regulatorios: Al estar al día con todas las leyes y regulaciones pertinentes, apoyamos a la empresa para que se mantenga en cumplimiento y evite multas o sanciones.
+
+      10. Defensa en auditorías y procesos legales: Proporcionamos orientación y defensa en las auditorías, y/o revisiones administrativas, laborales, penales, y fiscales. 
+
+      11. Asesoramiento en fusiones, adquisiciones y ventas: Si la empresa está considerando fusionarse con otra empresa, adquirirla o venderla, proporcionamos nuestro asesoramiento y orientación en todo el proceso.`,
+
+  [tokens.areas.derecho_penal.title]: 'DERECHO PENAL',
+
+  [tokens.areas.derecho_penal.description]: `
+  Asistimos globalmente a los clientes. No solo en lo que respecta a los alcances penales de su caso, sino que en todos los aspectos involucrados, civiles, comerciales, tributarios, administrativos y otros. Diseñamos e implementamos estrategias de defensa, para acciones individuales y globales. Prestamos asesoramiento legal especializado a personas naturales y jurídicas tanto en los casos que ellos han sido imputados, como en los que ellos han imputado.
+
+  Actuamos por lo general de forma preventiva. Revisamos, analizamos y aconsejamos en relación con cualquier actividad que pueda dar lugar a una conducta delictiva, y respecto de individuos o empresas contra las cuales se ha presentado un reclamo para perseguir su responsabilidad económica.
+
+  Sin ser taxativos:
+
+      1. Defensa en juicios penales: Este es el servicio más común proporcionado bajo el derecho penal. Ayudamos a los que han sido imputados a defenderse contra los cargos que se les imputan.
+
+      2. Investigación de caso: Llevamos investigaciones independientes, que incluyen la recopilación de pruebas, la entrevista de testigos y la revisión de informes policiales y antecedentes penales.
+
+      3. Negociación de acuerdos de declaración de culpabilidad: Negociamos con el fiscal para reducir los cargos y las sentencias de los acusados a cambio de una declaración de culpabilidad.
+
+      4. Gestionamos las defensas: Si no se puede llegar a un acuerdo, representamos al cliente, en todas las instancias del juicio. Esto implica la elaboración y la presentación de argumentos legales ante el tribunal y la representación del acusado durante todo el juicio.
+
+      5. Apelaciones: Recurrimos ante los tribunales superiores, en todos los casos que su intervención resulte necesaria.
+
+      6. Asesoramiento legal: Proporcionamos asesoramiento legal a personas que podrían estar en riesgo de enfrentarse a cargos penales. También para las empresas que han sido víctimas. En estos casos, elaboramos una acción conjunta orientada a ese propósito.
+
+      7. Representación en procedimientos de libertad condicional y libertad provisional: Defendemos la libertad de nuestros imputados y reclamamos la prisión y el máximo de medidas cautelares a quienes imputamos un delito.
+
+      8. Expugnación o eliminación de antecedentes penales: Ayudamos a expugnar o eliminar ciertos cargos o condenas de sus antecedentes penales.
+
+      9. Representación en procedimientos de extradición: También se incluyen servicios de representación en procedimientos de extradición para aquellos que están siendo extraditados a otro país para enfrentar cargos criminales.`,
+
+  [tokens.areas.derecho_internacional_privado.title]: 'DERECHO INTERNACIONAL PRIVADO',
+
+  [tokens.areas.derecho_internacional_privado.description]: `
+  Disponemos de profesionales con vasta y exitosa experiencia en el análisis del Derecho Internacional Privado. 
+
+  Sin ser taxativos, nuestros servicios incluyen:
+
+      1. Asesoramiento legal en transacciones internacionales: Apoyamos a las empresas a comprender y navegar por las leyes comerciales internacionales al realizar negocios en el extranjero.
+
+      2. Litigios internacionales: en caso de disputas legales que involucren partes que se encuentren en diferentes jurisdicciones, coordinamos y/o representamos a nuestros clientes en los procedimientos judiciales pertinentes.
+
+      3. Mediación y Arbitraje internacional: estos servicios ofrecen resolución de disputas sin recurrir a sistemas judiciales, lo que puede ahorrar tiempo y dinero.
+
+      4. Ley de propiedad intelectual internacional: Coordinamos y/o gestionamos la protección de los derechos de propiedad intelectual en el extranjero a través de registro de patentes, marcas y derechos de autor.
+
+      5. Inmigración: Proporcionamos asesoramiento legal y representación en asuntos de inmigración, tales como la solicitud de visas y la obtención de la ciudadanía.
+
+      6. Derecho fiscal internacional: Asistimos a las empresas y a los individuos a entender y cumplir con las leyes fiscales extranjeras.
+
+      7. Asesoramiento sobre tratados y convenios internacionales: Asesoramos a los gobiernos, organizaciones internacionales y empresas privadas sobre los aspectos legales de los tratados y acuerdos internacionales.
+
+      8. Derecho de competencia internacional: Asesoramos a las empresas sobre políticas antimonopolio, defensa de la competencia y otros aspectos del comercio mundial.`,
 };

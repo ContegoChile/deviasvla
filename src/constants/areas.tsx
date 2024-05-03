@@ -26,9 +26,9 @@ const categories: CategoryItems[] = [
       code : 'laboral'
     },
     {
-      title: 'CONTRATACIÓN NACIONAL E INTERNACIONAL',
+      title: 'DERECHO INTERNACIONAL PRIVADO',
       icon: '/assets/icons/ic_service_analysis.svg', // Replace with the correct path,
-      code : 'contratacion_nacional_internacional'
+      code : 'derecho_internacional_privado'
     },
     {
       title: 'INMOBILIARIA, INGENIERÍA Y CONSTRUCCIÓN',
@@ -53,7 +53,7 @@ const categories: CategoryItems[] = [
     {
       title: 'INVERSIÓN EXTRANJERA',
       icon: '/assets/icons/ic_money.svg', // Replace with the correct path
-      code : 'inversion-extranjera'
+      code : 'inversion_extranjera'
     },
     {
       title: 'ENERGÍA Y RECURSOS NATURALES',
@@ -71,7 +71,7 @@ const categories: CategoryItems[] = [
     { title: 'LIBRE COMPETENCIA', icon: '/assets/icons/free.svg', code: 'libre-competencia' },
     { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: '/assets/icons/const.svg' , code: 'constitucional_administrativo' },
     { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: '/assets/icons/law.svg' , code : 'informes-especializados-derecho' },
-    { title: 'CONFLICTOS DE LEYES Y JURISDICCIÓN', icon: '/assets/icons/conflicts.svg', code : 'conflictos-leyes-juridiccion' },
+    { title: 'DERECHO PENAL', icon: '/assets/icons/conflicts.svg', code : 'derecho_penal' },
     { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: '/assets/icons/protect.svg', code : 'proteccion_consumidor' },
     { title: 'INSOLVENCIA Y REORGANIZACIÓN EMPRESARIAL', icon: '/assets/icons/reorg.svg' , code : 'insolvencia-reorganizacion-empresarial' },
     { title: 'MEDIO AMBIENTE', icon: '/assets/icons/environ.svg' , code : 'medio_ambiente' },

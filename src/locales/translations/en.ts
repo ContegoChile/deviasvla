@@ -814,5 +814,87 @@ export const en = {
 
       6. Administrative liability: This includes defending clients in cases of administrative liability, which may result from violations of regulations or administrative rules.
 
-      7. Resolution of administrative disputes: We represent clients in disputes with government agencies or regulatory entities.`
+      7. Resolution of administrative disputes: We represent clients in disputes with government agencies or regulatory entities.`,
+
+  [tokens.areas.inversion_extranjera.title]: 'REPRESENTATION',
+
+  [tokens.areas.inversion_extranjera.description]: `
+  For foreign companies that want to operate in the country, under the supervision and direct control of their parent company, either through a subsidiary established in Chile or through an agency, we provide legal representation and fiscal control services with the support of the accountants and tax specialists who work on the team.
+
+  We take care of the procedures for the establishment of the respective company and/or agency, shareholder registries and social books in relevant cases, the initiation of their activities and obtaining the RUT (Rol Único Tributario) at the Internal Tax Service (SII), and interaction with various authorities. We also handle corporate secretarial duties when relevant to the type of company, and regulatory compliance in accounting and tax matters.
+
+  Without being exhaustive, this service includes:
+
+      1. Representing the company before third parties. This is usually one of the main services included in a company's legal representation. This involves representing the company in various situations, such as in key meetings, negotiations and financial or commercial transactions.
+
+      2. Legal advice. This service involves providing legal advice and guidance to the company in various areas of the law. This can include advising on contract issues, mergers and acquisitions, labor issues, environmental legislation and any other areas of law that may affect the company.
+
+      3. Mediation and conflict resolution. In case of disagreements or legal conflicts with other companies or individuals, the legal representative will intervene to mediate and seek a solution.
+
+      4. Compliance with legal obligations. We strive to ensure that the company complies with all its legal obligations. This may include, among other things, the filing of financial reports, payment of taxes and adherence to labor laws and regulations.
+
+      5. Contract management. We take responsibility for drafting, reviewing and negotiating the company's contracts.
+
+      6. Representation in litigation. We take care of representing and defending the company when it is involved in any type of litigation.
+
+      7. Protection of intellectual property. We protect the company's patents, trademarks, copyrights and other elements of intellectual property.
+
+      8. Assisting in decision making. We assist the company in policy and strategy matters, helping it make informed decisions.
+
+      9. Management of regulatory issues. By staying up-to-date with all relevant laws and regulations, we support the company to remain compliant and avoid fines or penalties.
+      
+      10. Defense in audits and legal processes. We provide guidance and defense in audits, and/or administrative, labor, criminal, and tax reviews.
+
+      11. Advising on mergers, acquisitions and sales. If the company is considering merging with another company, acquiring it or selling it, we provide our advice and guidance throughout the process.`,
+
+  [tokens.areas.derecho_penal.title]: 'CRIMINAL LAW',
+
+  [tokens.areas.derecho_penal.description]: `
+  We assist clients globally. Not only with regards to the criminal scopes of their case, but also in every aspect involved, including civil, commercial, tax, administrative, and others. We design and implement defense strategies, for individual and global actions. We provide specialized legal advice to private individuals and legal entities both in cases where they have been charged, as well as in those where they have brought charges.
+
+  We generally act in a preventive manner. We review, analyze and advise on any activity that could lead to criminal behavior, and regarding individuals or companies against which a claim has been made to pursue their financial liability.
+
+  Without being exhaustive:
+
+      1. Criminal Defense: This is the most common service provided under criminal law. We assist those who have been charged in defending against the accusations brought against them.
+
+      2. Case Investigation: We conduct independent investigations, which include evidence gathering, witness interviews, and review of police reports and criminal backgrounds.
+
+      3. Plea Bargain Negotiations: We negotiate with the prosecutor to reduce the charges and sentences of the accused in exchange for a guilty plea.
+
+      4. Managing Defenses: If a deal cannot be reached, we represent the client in all stages of the trial. This involves the drafting and presenting of legal arguments before the court, and representing the accused throughout the entire trial.
+
+      5. Appeals: We appeal to higher courts in all cases where their intervention proves necessary.
+
+      6. Legal Advice: We provide legal advice to individuals who may be at risk of facing criminal charges, and also to businesses that have been victims. In these cases, we design a collective action aimed at this purpose.
+
+      7. Representation in Parole and Bail Proceedings: We defend the freedom of our charges and demand imprisonment and maximum precautionary measures for those we charge with a crime.
+
+      8. Expungement or Removal of Criminal Records: We assist in expunging or removing certain charges or convictions from your criminal record.
+
+      9. Representation in Extradition Proceedings: We also include representation services in extradition proceedings for those who are being extradited to another country to face criminal charges.`,
+
+  [tokens.areas.derecho_internacional_privado.title]: 'PRIVATE INTERNATIONAL LAW',
+
+  [tokens.areas.derecho_internacional_privado.description]: `
+  We have professionals with vast and successful experience in the analysis of Private International Law.
+
+  Without being exhaustive, our services include:
+
+      1. Legal advice in international transactions: We support companies in understanding and navigating international business laws when conducting business abroad.
+      
+      2. International litigation: in case of legal disputes involving parties in different jurisdictions, we coordinate and/or represent our clients in the relevant legal proceedings.
+      
+      3. Mediation and International Arbitration: these services offer dispute resolution without resorting to judicial systems, which can save time and money.
+      
+      4. International intellectual property law: We coordinate and/or manage the protection of intellectual property rights abroad through patent, trademark, and copyright registration.
+      
+      5. Immigration: We provide legal advice and representation on immigration matters, such as visa applications and obtaining citizenship.
+      
+      6. International tax law: We assist businesses and individuals in understanding and complying with foreign tax laws.
+      
+      7. Advice on international treaties and conventions: We advise governments, international organizations, and private companies on the legal aspects of treaties and international agreements.
+      
+      8. International competition law: We advise companies on antitrust policies, competition defense, and other aspects of world trade.`,
+      
 };

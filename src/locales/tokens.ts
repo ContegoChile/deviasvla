@@ -507,9 +507,9 @@ headings: {
       title : 'areas.laboral.title',
       description : 'areas.laboral.description',
     },
-    contratacion_nacional_internacional : {
-      title : 'areas.contratacion_nacional_internacional.title',
-      description : 'areas.contratacion_nacional_internacional.description',
+    derecho_internacional_privado : {
+      title : 'areas.derecho_internacional_privado.title',
+      description : 'areas.derecho_internacional_privado.description',
     },
     inmobiliaria : {
       title : 'areas.inmobiliaria.title',
@@ -538,6 +538,14 @@ headings: {
     constitucional_administrativo : {
       title : 'areas.constitucional_administrativo.title',
       description : 'areas.constitucional_administrativo.description',
+    },
+    inversion_extranjera : {
+      title : 'areas.inversion_extranjera.title',
+      description : 'areas.inversion_extranjera.description',
+    },
+    derecho_penal : {
+      title : 'areas.derecho_penal.title',
+      description : 'areas.derecho_penal.description',
     },
     
   }
