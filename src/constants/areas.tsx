@@ -31,35 +31,9 @@ const categories: CategoryItems[] = [
       code : 'derecho_internacional_privado'
     },
     {
-      title: 'INMOBILIARIA, INGENIERÍA Y CONSTRUCCIÓN',
-      icon: '/assets/icons/ic_banking_currency.svg', // Replace with the correct path
-      code : 'inmobiliaria'
-    },
-    {
-      title: 'FINANCIAMIENTO DE PROYECTOS',
-      icon: '/assets/icons/ic_money.svg', // Replace with the correct path
-      code : 'financiamiento'
-    },
-    {
-      title: 'MERCADOS REGULADOS',
-      icon: '/assets/icons/ic_banking.svg', // Replace with the correct path
-      code : 'mercados-regulados'
-    },
-    {
-      title: 'INMIGRACIÓN',
-      icon: '/assets/icons/ic_customer_service.svg', // Replace with the correct path
-      code : 'inmigracion'
-    },
-    {
       title: 'INVERSIÓN EXTRANJERA',
       icon: '/assets/icons/ic_money.svg', // Replace with the correct path
       code : 'inversion_extranjera'
-    },
-    {
-      title: 'ENERGÍA Y RECURSOS NATURALES',
-      icon: '/assets/icons/energy.svg', // Replace with the correct path
-      code : 'energia-recursos-naturales'
-
     },
     {
       title: 'AGUAS',
@@ -68,16 +42,12 @@ const categories: CategoryItems[] = [
     },
     { title: 'LITIGIOS', icon: '/assets/icons/gavel_2.svg', code : 'litigios' },
     { title: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE', icon: '/assets/icons/shake.svg' , code: 'conflictos_arbitraje' },
-    { title: 'LIBRE COMPETENCIA', icon: '/assets/icons/free.svg', code: 'libre-competencia' },
     { title: 'CONSTITUCIONAL Y ADMINISTRATIVO', icon: '/assets/icons/const.svg' , code: 'constitucional_administrativo' },
-    { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: '/assets/icons/law.svg' , code : 'informes-especializados-derecho' },
+    { title: 'INFORMES ESPECIALIZADOS EN DERECHO', icon: '/assets/icons/law.svg' , code : 'informes_especializados_derecho' },
     { title: 'DERECHO PENAL', icon: '/assets/icons/conflicts.svg', code : 'derecho_penal' },
     { title: 'PROTECCIÓN DEL CONSUMIDOR', icon: '/assets/icons/protect.svg', code : 'proteccion_consumidor' },
-    { title: 'INSOLVENCIA Y REORGANIZACIÓN EMPRESARIAL', icon: '/assets/icons/reorg.svg' , code : 'insolvencia-reorganizacion-empresarial' },
     { title: 'MEDIO AMBIENTE', icon: '/assets/icons/environ.svg' , code : 'medio_ambiente' },
-    { title: 'AGROINDUSTRIA', icon: '/assets/icons/AGROIN.svg' , code : 'agroindustria' },
-    { title: 'EDUCACIÓN', icon: '/assets/icons/edu.svg', code : 'educacion'},
-    { title: 'PRÁCTICA GENERAL', icon: '/assets/icons/general.svg' , code : 'practica-general' },
+    { title: 'PRÁCTICA GENERAL', icon: '/assets/icons/general.svg' , code : 'practica_general' },
 ];
 
 export default categories ;

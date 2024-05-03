@@ -511,10 +511,6 @@ headings: {
       title : 'areas.derecho_internacional_privado.title',
       description : 'areas.derecho_internacional_privado.description',
     },
-    inmobiliaria : {
-      title : 'areas.inmobiliaria.title',
-      description : 'areas.inmobiliaria.description',
-    },
     aguas : {
       title : 'areas.aguas.title',
       description : 'areas.aguas.description',
@@ -546,6 +542,14 @@ headings: {
     derecho_penal : {
       title : 'areas.derecho_penal.title',
       description : 'areas.derecho_penal.description',
+    },
+    informes_especializados_derecho : {
+      title : 'areas.informes_especializados_derecho.title',
+      description : 'areas.informes_especializados_derecho.description',
+    },
+    practica_general : {
+      title : 'areas.practica_general.title',
+      description : 'areas.practica_general.description',
     },
     
   }
