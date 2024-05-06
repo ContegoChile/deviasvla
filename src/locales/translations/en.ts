@@ -631,290 +631,308 @@ export const en = {
 
   [tokens.areas.corporativo.title]: 'CORPORATE',
   [tokens.areas.corporativo.description]: `
-  We provide advice on all corporate aspects of companies, their internal operations, structure and organization, the rights and duties of shareholders and directors, or partners and administrators, the relationship that the company should maintain with state entities and authorities, society and various commercial agents, among other aspects.
+   <p> &nbsp; We provide advice on all corporate aspects of companies, their internal operations, structure and organization, the rights and duties of shareholders and directors, or partners and administrators, the relationship that the company should maintain with state entities and authorities, society and various commercial agents, among other aspects. </p>
+   <p> &nbsp; After the publication of Law Number 21,595, which systematizes economic offenses and regulates the penalties and additional consequences applicable to those responsible for these crimes, particularly legal entities, it is necessary that, in all corporate activities, not only specialists in the area are involved, but also other professionals. </p>
+   <p> &nbsp; VLA has a multidisciplinary team of specialists who collectively address the increasingly complex needs of clients. Their vast experience, coupled with their reputation and track record, allows their advice to provide the certainty and clarity that clients need to make their decisions. </p>
+   <p> &nbsp; Without being exhaustive, this service includes: </p>
 
-  After the publication of Law Number 21,595, which systematizes economic offenses and regulates the penalties and additional consequences applicable to those responsible for these crimes, particularly legal entities, it is necessary that, in all corporate activities, not only specialists in the area are involved, but also other professionals.
+   <ol>
+      <li> The creation and modification of companies, as well as their restructuring. </li> <br/>
 
-  VLA has a multidisciplinary team of specialists who collectively address the increasingly complex needs of clients. Their vast experience, coupled with their reputation and track record, allows their advice to provide the certainty and clarity that clients need to make their decisions.
-  
-  Without being exhaustive, this service includes:
+      <li> The drafting of shareholder agreements and bylaws with ad-hoc safeguard clauses. </li> <br/>
 
-      • The creation and modification of companies, as well as their restructuring.
+      <li> Assistance as a secretary in shareholder meetings and board sessions. </li> <br/>
 
-      • The drafting of shareholder agreements and bylaws with ad-hoc safeguard clauses.
+      <li> The recording and custody of the company's registries. </li> <br/>
 
-      • Assistance as a secretary in shareholder meetings and board sessions.
+      <li> Assistance in drafting contracts, with the support of other office areas when necessary. </li> <br/>
 
-      • The recording and custody of the company's registries.
+      <li> Assistance in complying with the regulations and norms in force in the industry and geographical location where it operates. </li> <br/>
 
-      • Assistance in drafting contracts, with the support of other office areas when necessary.
+      <li> Provides guidance on how the corporation should be run to be fair and transparent to its shareholders. </li> 
 
-      • Assistance in complying with the regulations and norms in force in the industry and geographical location where it operates.
-
-      • Provides guidance on how the corporation should be run to be fair and transparent to its shareholders.
-    
-  This is not an exhaustive list, but it does cover many of the key services that can be expected from a corporate legal department. Each corporation may have specific needs depending on its size, industry, and geographical location.` ,
+  </ol>
+  </p> &nbsp; This is not an exhaustive list, but it does cover many of the key services that can be expected from a corporate legal department. Each corporation may have specific needs depending on its size, industry, and geographical location.</p>` ,
   
   [tokens.areas.fusiones_adquisiciones.title]: 'MERGERS AND ACQUISITIONS',
 
   [tokens.areas.fusiones_adquisiciones.description]: `
-  We assist and represent clients in all stages of a business negotiation and/or transaction. Starting with due diligence, the MOU, and ending with the drafting and perfection of the final agreements and contracts, including share and asset transactions, international mergers, joint venture agreements, takeovers and swap offers of listed companies.
-
-  In corporate restructurings, we are particularly concerned with the management of the corporation, ensuring that the operation aims to improve or facilitate business conditions, as well as obtain competitive advantages; financing; the elimination or mitigation of costs or risks; enhance productive capacity or market presence; optimize management or any other similar purpose to those previously mentioned and that, in any case, is distinct from mere tax matters.
-
-  We also make available to our clients the entire multidisciplinary team that practices at VLA to ensure that the transactions and businesses we review are perfected in the best way for the client's interest.
-
-  We have experience representing sellers, buyers, majority and minority shareholders, both public and private acquired companies, and financiers in a wide variety of operations, including mergers, divisions, business partnerships, public and private share acquisition offers, corporate reorganizations and other types of restructurings. We also offer our clients support in the search for strategic partners, capitalists, and other types of business prospects.`,
+  <p> &nbsp; We assist and represent clients in all stages of a business negotiation and/or transaction. Starting with due diligence, the MOU, and ending with the drafting and perfection of the final agreements and contracts, including share and asset transactions, international mergers, joint venture agreements, takeovers and swap offers of listed companies. </p>
+  <p> &nbsp; In corporate restructurings, we are particularly concerned with the management of the corporation, ensuring that the operation aims to improve or facilitate business conditions, as well as obtain competitive advantages; financing; the elimination or mitigation of costs or risks; enhance productive capacity or market presence; optimize management or any other similar purpose to those previously mentioned and that, in any case, is distinct from mere tax matters. </p>
+  <p> &nbsp; We also make available to our clients the entire multidisciplinary team that practices at VLA to ensure that the transactions and businesses we review are perfected in the best way for the client's interest. </p>
+  <p> &nbsp; We have experience representing sellers, buyers, majority and minority shareholders, both public and private acquired companies, and financiers in a wide variety of operations, including mergers, divisions, business partnerships, public and private share acquisition offers, corporate reorganizations and other types of restructurings. We also offer our clients support in the search for strategic partners, capitalists, and other types of business prospects. </p>
+  `,
 
   [tokens.areas.tributaria.title]: 'TAXATION',
 
   [tokens.areas.tributaria.description]: `
-  Our multidisciplinary team supports companies from their formation until their dissolution. We excel in assisting our clients through all cycles, especially in complex planning and transactions. We review and support their contractual operations. We also represent them administratively and judicially.
-
-  We are trained to correctly assess the risks related to tax matters. Our responses, whether verbal or written, are always preceded by a thorough study of the scope of what is intended to be done. We prioritize completing business in the best possible way, that is, with the minimum of contingencies, and always maximizing tax benefits. All within the framework of legality. Our work includes the analysis - mostly in the form of legal opinions and memoranda - of the tax implications of a specific transaction or business model that our clients may have or be planning, as well as the review of the tax situation of companies within their business groups.
-
-  In addition to providing a solid defense in administrative and judicial forums, our approach is based on proposing mechanisms, agreements, and approaching authorities. We design and implement strategies aimed at achieving an administrative solution to tax conflicts or disputes, We have achieved this in several cases, some of them quite high-profile.
+  <p> &nbsp; Our multidisciplinary team supports companies from their formation until their dissolution. We excel in assisting our clients through all cycles, especially in complex planning and transactions. We review and support their contractual operations. We also represent them administratively and judicially. </p>
+  <p> &nbsp; We are trained to correctly assess the risks related to tax matters. Our responses, whether verbal or written, are always preceded by a thorough study of the scope of what is intended to be done. We prioritize completing business in the best possible way, that is, with the minimum of contingencies, and always maximizing tax benefits. All within the framework of legality. Our work includes the analysis - mostly in the form of legal opinions and memoranda - of the tax implications of a specific transaction or business model that our clients may have or be planning, as well as the review of the tax situation of companies within their business groups. </p>
+  <p> &nbsp; In addition to providing a solid defense in administrative and judicial forums, our approach is based on proposing mechanisms, agreements, and approaching authorities. We design and implement strategies aimed at achieving an administrative solution to tax conflicts or disputes, We have achieved this in several cases, some of them quite high-profile. </p>
   
-  Without being exhaustive, tax services include:
+  <p> &nbsp; Without being exhaustive, tax services include: </p>
 
-      • Tax advice: We assist businesses in complying with their tax obligations appropriately and efficiently. We have prepared legal reports for significant tax cases, even for the SII.
+  <ol>
+      <li> Tax advice: We assist businesses in complying with their tax obligations appropriately and efficiently. We have prepared legal reports for significant tax cases, even for the SII. </li>
+      <br/>
 
-      • Tax planning: We develop strategies and plans to minimize a company's tax burden, always respecting current legislation.
+      <li> Tax planning: We develop strategies and plans to minimize a company's tax burden, always respecting current legislation. </li>
+      <br/>
 
-      • Preparation and review of tax returns: This service includes the preparation and review of companies' tax returns.
+      <li> Preparation and review of tax returns: This service includes the preparation and review of companies' tax returns. </li>
+      <br/>
 
-      • Tax auditing: This service is responsible for reviewing and verifying a company's compliance with its tax obligations.
+      <li> Tax auditing: This service is responsible for reviewing and verifying a company's compliance with its tax obligations. </li>
+      <br/>
 
-      • Defense and representation before the tax authority: When there is a disagreement between the taxpayer and the tax authorities, we represent and defend the taxpayer.
+      <li> Defense and representation before the tax authority: When there is a disagreement between the taxpayer and the tax authorities, we represent and defend the taxpayer. </li>
+      <br/>
 
-      • Consulting on transfer pricing: This service offers advice on regulations and requirements related to transfer pricing.
+      <li> Consulting on transfer pricing: This service offers advice on regulations and requirements related to transfer pricing. </li>
+      <br/>
 
-      • Advice on indirect taxes: Offers advice on taxes such as VAT, excise taxes, etc.
+      <li> Advice on indirect taxes: Offers advice on taxes such as VAT, excise taxes, etc. </li>
+      <br/>
 
-      • Advice on international tax compliance: This service offers advice on complying with international tax obligations.
+      <li> Advice on international tax compliance: This service offers advice on complying with international tax obligations. </li>
+      <br/>
 
-      • Management of Accounting and Payrolls: This service manages accounting and payroll in relation to taxes.
+      <li> Management of Accounting and Payrolls: This service manages accounting and payroll in relation to taxes. </li>
+      <br/>
 
-      • Advice on companies' tax structure: This service provides advice on how to structure a company to be more tax-efficient.
+      <li> Advice on companies' tax structure: This service provides advice on how to structure a company to be more tax-efficient. </li>
+      <br/>
 
-      • Advice on mergers and acquisitions: This service offers advice on the tax aspects of mergers and acquisitions.
+      <li> Advice on mergers and acquisitions: This service offers advice on the tax aspects of mergers and acquisitions. </li>
+      <br/>
 
-      • Advice on income and wealth taxes: This service provides advice on how to manage income and wealth taxes.
-  
-  These services may vary from one country to another due to differences in tax legislation and regulations.`,
+      <li> Advice on income and wealth taxes: This service provides advice on how to manage income and wealth taxes. </li>
+      <br/>
+
+  </ol>
+  <p> &nbsp;These services may vary from one country to another due to differences in tax legislation and regulations. </p>`,
   
   [tokens.areas.laboral.title]: 'WORKPLACE',
 
   [tokens.areas.laboral.description]: `
-  We commit ourselves to various areas of companies and their needs. We provide solutions and specialized advice on the different requirements and challenges that arise in organizations.
-
-  We assist companies with common doubts arising from the application of labor law. We support collective negotiations and relations with unions with a specialized leader.
-
-  We represent them before the administrative authority (Labor Directorate) and in labor courts and courts.
-  
-  Without being exhaustive, our consultancy includes:
-
-      • After recruitme0nt and staff selection, we draft the employment contract. We assist in its modifications, and at the end of the employment relationship, with the drafting of the corresponding settlements.
-
-      • We organize and give talks and update seminars. We also send newsletters, with updates on labor laws, and decisions from the Labor Directorate.
-
-      • Compensation and benefits: Compensation and benefits services refer to the structuring of compensation plans, considering tax implications.
-
-      • Labor relations: We manage relations between management and employees, handling any labor conflict and maintaining good labor relations.
-
-      • Compliance with labor laws and regulations: We ensure that the company complies with all applicable labor laws and regulations.
-
-      • Workplace health and safety management: We ensure that regulations and contracts include obligations aimed at preserving the work climate, in order to guarantee safe and healthy work.
-
-      • Human resources management: This service covers a wide range of responsibilities, including maintaining employee records, managing benefits, and implementing policies and procedures.
-
-      • Labor consultancy: Solving complex problems related to staff, productivity, work climate, etc.
-
-      • Equality and diversity policies: We ensure that all employees are treated fairly, regardless of their race, sex, sexual orientation, religion, age, disability, etc.`,
+  <p> &nbsp; We commit ourselves to various areas of companies and their needs. We provide solutions and specialized advice on the different requirements and challenges that arise in organizations.</p>
+  <p> &nbsp; We assist companies with common doubts arising from the application of labor law. We support collective negotiations and relations with unions with a specialized leader.</p>
+  <p> &nbsp; We represent them before the administrative authority (Labor Directorate) and in labor courts and courts.</p>
+  <p> &nbsp; Without being exhaustive, our consultancy includes:</p>
+  <ol>
+      <li>After recruitme0nt and staff selection, we draft the employment contract. We assist in its modifications, and at the end of the employment relationship, with the drafting of the corresponding settlements.</li>
+      <li>We organize and give talks and update seminars. We also send newsletters, with updates on labor laws, and decisions from the Labor Directorate.</li>
+      <li>Compensation and benefits: Compensation and benefits services refer to the structuring of compensation plans, considering tax implications.</li>
+      <li>Labor relations: We manage relations between management and employees, handling any labor conflict and maintaining good labor relations.</li>
+      <li>Compliance with labor laws and regulations: We ensure that the company complies with all applicable labor laws and regulations.</li>
+      <li>Workplace health and safety management: We ensure that regulations and contracts include obligations aimed at preserving the work climate, in order to guarantee safe and healthy work.</li>
+      <li>Human resources management: This service covers a wide range of responsibilities, including maintaining employee records, managing benefits, and implementing policies and procedures.</li>
+      <li>Labor consultancy: Solving complex problems related to staff, productivity, work climate, etc.</li>
+      <li>Equality and diversity policies: We ensure that all employees are treated fairly, regardless of their race, sex, sexual orientation, religion, age, disability, etc.</li>
+  <ol>  
+  `,
 
   [tokens.areas.aguas.title]: 'WATER RIGHTS',
   
   [tokens.areas.aguas.description]: `
-  We study and propose solutions regarding water utilization rights, for both agricultural and industrial or sanitary use. We evaluate different variables related to the right and its specific market. We process all kinds of concessions and authorizations related to water utilization rights and their complementary works before the state administration bodies competent in Water Rights and Administrative Law in general. We manage the regularization and perfection of water rights titles. We advise and represent clients when they register discrepancies with the patent charge for non-use and all kinds of inspections related to the exercise of their water utilization rights. We advise and represent clients in negotiations or disputes related to the exercise of their water utilization rights.`,
+  <p> &nbsp; We study and propose solutions regarding water utilization rights, for both agricultural and industrial or sanitary use. We evaluate different variables related to the right and its specific market. We process all kinds of concessions and authorizations related to water utilization rights and their complementary works before the state administration bodies competent in Water Rights and Administrative Law in general. We manage the regularization and perfection of water rights titles. We advise and represent clients when they register discrepancies with the patent charge for non-use and all kinds of inspections related to the exercise of their water utilization rights. We advise and represent clients in negotiations or disputes related to the exercise of their water utilization rights.</p>`,
 
   [tokens.areas.litigios.title]: 'LITIGATION',
 
   [tokens.areas.litigios.description]: `
-  Our office has a team composed of specialists, who are well-positioned to provide superior service in the area of disputes, be they administrative (especially tax and SERNAC) or judicial, whether in ordinary or arbitration courts.
+   <p> &nbsp; Our office has a team composed of specialists, who are well-positioned to provide superior service in the area of disputes, be they administrative (especially tax and SERNAC) or judicial, whether in ordinary or arbitration courts. </p>
+   <p> &nbsp; We prepare defense maps. We structure case theories, and put together and lead defense teams in all scenarios, including arguing before higher courts (Court of Appeals, Supreme Court), or special tribunals. </p>
+   <p> &nbsp; We wish to emphasize that our lawyers have successfully represented their clients in all areas, and that many of them have made a public impact due to their media presence. We also wish to underscore that we coordinate with other firms, and on numerous occasions provide the necessary professional support for administrative and/or contractual implementations. </p>
+   <p> &nbsp; Without being exhaustive, the following are included under this service: </p>
+    <ol>
+      <li> Legal advice: We provide legal advice on how to proceed with a particular case. This may involve assessing the merits of a case, filing the appropriate legal documents, advising on the correct legal strategy, and other related advice. </li> <br/>
 
-  We prepare defense maps. We structure case theories, and put together and lead defense teams in all scenarios, including arguing before higher courts (Court of Appeals, Supreme Court), or special tribunals.
+      <li> Court representation: We represent clients in court to defend their rights and present their arguments. </li> <br/>
 
-  We wish to emphasize that our lawyers have successfully represented their clients in all areas, and that many of them have made a public impact due to their media presence. We also wish to underscore that we coordinate with other firms, and on numerous occasions provide the necessary professional support for administrative and/or contractual implementations.
+      <li> Settlement negotiations: Whenever possible, we assist in negotiating settlements out of court in order to resolve disputes in a quicker and more efficient manner. </li> <br/>
 
-  Without being exhaustive, the following are included under this service:
-  
-      • Legal advice: We provide legal advice on how to proceed with a particular case. This may involve assessing the merits of a case, filing the appropriate legal documents, advising on the correct legal strategy, and other related advice.
+      <li> Mediation and arbitration: Instead of going to court, parties can sometimes opt for alternative dispute resolution methods, such as mediation and arbitration. These processes are generally shorter and less expensive than a trial. </li> <br/>
 
-      • Court representation: We represent clients in court to defend their rights and present their arguments.
+      <li> Investigation and evidence gathering: We can take on the task of conducting investigations and gathering evidence for use in court. </li> <br/>
 
-      • Settlement negotiations: Whenever possible, we assist in negotiating settlements out of court in order to resolve disputes in a quicker and more efficient manner.
+      <li> Drafting legal documents: We prepare and submit not only the styled complaints in trials but also draft a variety of legal documents, such as minutes, reports, reconciliation and/or mediation proposals. </li> <br/>
 
-      • Mediation and arbitration: Instead of going to court, parties can sometimes opt for alternative dispute resolution methods, such as mediation and arbitration. These processes are generally shorter and less expensive than a trial.
+      <li> Consultations and compliance confirmation: We work with clients in a preventive context. We provide advice on how to comply with the law to avoid litigation in the future. </li> <br/>
 
-      • Investigation and evidence gathering: We can take on the task of conducting investigations and gathering evidence for use in court.
+      <li> Crisis management: In situations where litigation can have serious repercussions on a company's or individual's reputation, we provide appropriate support and strategic guidance. </li> <br/>
 
-      • Drafting legal documents: We prepare and submit not only the styled complaints in trials but also draft a variety of legal documents, such as minutes, reports, reconciliation and/or mediation proposals.
+      <li> Expert testimony: We work with experts to strengthen your case and provide compelling testimony to the court. </li> <br/>
 
-      • Consultations and compliance confirmation: We work with clients in a preventive context. We provide advice on how to comply with the law to avoid litigation in the future.
-
-      • Crisis management: In situations where litigation can have serious repercussions on a company's or individual's reputation, we provide appropriate support and strategic guidance.
-
-      • Expert testimony: We work with experts to strengthen your case and provide compelling testimony to the court.
-
-      • Legal reports: Specialized study, with consultation of bibliography, jurisprudence and comparative law on some point of interpretation of the law.`,
+      <li> Legal reports: Specialized study, with consultation of bibliography, jurisprudence and comparative law on some point of interpretation of the law. </li> <br/>
+    </ol>
+      `, 
    
   [tokens.areas.conflictos_arbitraje.title]: 'ARBITRATION',
 
   [tokens.areas.conflictos_arbitraje.description]: `
-  We have experience in arbitration. We have participated in numerous arbitration trials, both before arbitrator judges or arbitrators from the Santiago Chamber of Commerce (CAM). Also before the International Chamber of Commerce (ICC), the International Centre for Settlement of Investment Disputes (ICSID), the American Arbitration Association's International Center for Dispute Resolution (ICDR), the London Court of International Arbitration (LCIA) and the United Nations Commission on International Trade Law (UNCITRAL).`,
+  <p> &nbsp; We have experience in arbitration. We have participated in numerous arbitration trials, both before arbitrator judges or arbitrators from the Santiago Chamber of Commerce (CAM). Also before the International Chamber of Commerce (ICC), the International Centre for Settlement of Investment Disputes (ICSID), the American Arbitration Association's International Center for Dispute Resolution (ICDR), the London Court of International Arbitration (LCIA) and the United Nations Commission on International Trade Law (UNCITRAL).</p>`,
 
   [tokens.areas.proteccion_consumidor.title]: 'CONSUMER PROTECTION',
 
   [tokens.areas.proteccion_consumidor.description]: `
-  We have a team of lawyers experienced in Consumer Protection Law. We review and correct adhesion contracts to prevent abusive clauses. We also respond to official communications and inspections from Sernac. We answer consumer complaints, and represent companies in all judicial instances, always seeking rapprochement and/or conciliation, whether through individual or collective actions. 
+  <p> &nbsp; We have a team of lawyers experienced in Consumer Protection Law. We review and correct adhesion contracts to prevent abusive clauses. We also respond to official communications and inspections from Sernac. We answer consumer complaints, and represent companies in all judicial instances, always seeking rapprochement and/or conciliation, whether through individual or collective actions.  </p>
 
-  Without being exhaustive, our services include:
+  <p> &nbsp; Without being exhaustive, our services include: </p>
 
-      • Legal advice: We identify operation risks, and contingencies in interactions with consumers. We propose and draft safeguard clauses.
+  <ol>
 
-      • Representation in litigation: We defend the company against infraction complaints, individual and/or collective compensatory lawsuits.
+    <li> Legal advice: We identify operation risks, and contingencies in interactions with consumers. We propose and draft safeguard clauses. </li> <br/>
 
-      • Dispute resolution: We negotiate agreements between the company and consumers.
+    <li> Representation in litigation: We defend the company against infraction complaints, individual and/or collective compensatory lawsuits. </li> <br/>
 
-      • Assistance in formal complaints: We document risk situations, and present complaints to organizations that protect consumers.
+    <li> Dispute resolution: We negotiate agreements between the company and consumers. </li> <br/>
 
-      • Investigation: We review the relevant evidence and documentation to build a strong case.`,
+    <li> Assistance in formal complaints: We document risk situations, and present complaints to organizations that protect consumers. </li> <br/>
+
+    <li> Investigation: We review the relevant evidence and documentation to build a strong case. </li> 
+  </ol> 
+  `, 
 
   [tokens.areas.medio_ambiente.title]: 'ENVIRONMENT',
 
   [tokens.areas.medio_ambiente.description]: `
-  Environmental and regulatory compliance has become one of the most significant aspects of the development and operation of any industrial and service project. We advise clients from the energy, mining, hydrocarbon, sanitation, forestry, agricultural, wine and other industries in assessing their environmental risks, reviewing and resolving their environmental issues, and providing legal assistance in their permit acquisition processes. We are capable of offering a global service to our clients, advising them not only from a regulatory and environmental perspective, but also in their financing processes, project development, and mergers and acquisitions, and in the ever-increasing number of environmental disputes that have arisen in the recently created Environmental Courts and Superintendency of the Environment.`,
+  <p> &nbsp; Environmental and regulatory compliance has become one of the most significant aspects of the development and operation of any industrial and service project. We advise clients from the energy, mining, hydrocarbon, sanitation, forestry, agricultural, wine and other industries in assessing their environmental risks, reviewing and resolving their environmental issues, and providing legal assistance in their permit acquisition processes. We are capable of offering a global service to our clients, advising them not only from a regulatory and environmental perspective, but also in their financing processes, project development, and mergers and acquisitions, and in the ever-increasing number of environmental disputes that have arisen in the recently created Environmental Courts and Superintendency of the Environment.</p>`,
 
   [tokens.areas.constitucional_administrativo.title]: 'ADMINISTRATIVE AND SANCTIONING ADMINISTRATIVE',
 
   [tokens.areas.constitucional_administrativo.description]: `
-  We represent numerous clients before administrative and public authorities, centralized and decentralized bodies at a national and local level, and regulatory bodies.
+  <p> &nbsp; We represent numerous clients before administrative and public authorities, centralized and decentralized bodies at a national and local level, and regulatory bodies. </p>
+  <p> &nbsp; Without being exhaustive, our services include: </p>
+  <ol>
+    <li> Legal advice in administrative law: This includes the interpretation and application of administrative rules, the preparation of applications and claims, and representation in administrative and judicial proceedings.</li> <br/>
 
-  Without being exhaustive, our services include:
+    <li> Administrative proceedings: We handle all aspects of administrative proceedings, including the filing of applications and appeals, representation in hearings, and the appeal of administrative decisions.</li> <br/>
 
-      • Legal advice in administrative law: This includes the interpretation and application of administrative rules, the preparation of applications and claims, and representation in administrative and judicial proceedings.
+    <li> Licenses and permits: We help businesses obtain and maintain the licenses and permits necessary for their operations. This may include business licenses, building permits, liquor licenses, and environmental permits.</li> <br/>
 
-      • Administrative proceedings: We handle all aspects of administrative proceedings, including the filing of applications and appeals, representation in hearings, and the appeal of administrative decisions.
+    <li> Public contracting: We advise businesses on the bidding and public contracting process, including the preparation of bids and representation in contracting disputes.</li> <br/>
 
-      • Licenses and permits: We help businesses obtain and maintain the licenses and permits necessary for their operations. This may include business licenses, building permits, liquor licenses, and environmental permits.
+    <li> Regulatory compliance: We advise businesses on how to comply with government regulations. This may include the interpretation of new regulations, the conducting of compliance audits, and defense in compliance proceedings.</li> <br/>
 
-      • Public contracting: We advise businesses on the bidding and public contracting process, including the preparation of bids and representation in contracting disputes.
+    <li> Administrative liability: This includes defending clients in cases of administrative liability, which may result from violations of regulations or administrative rules.</li> <br/>
 
-      • Regulatory compliance: We advise businesses on how to comply with government regulations. This may include the interpretation of new regulations, the conducting of compliance audits, and defense in compliance proceedings.
-
-      • Administrative liability: This includes defending clients in cases of administrative liability, which may result from violations of regulations or administrative rules.
-
-      • Resolution of administrative disputes: We represent clients in disputes with government agencies or regulatory entities.`,
+    <li> Resolution of administrative disputes: We represent clients in disputes with government agencies or regulatory entities.</li> <br/>
+  </ol>  
+  `,
 
   [tokens.areas.inversion_extranjera.title]: 'REPRESENTATION',
 
   [tokens.areas.inversion_extranjera.description]: `
-  For foreign companies that want to operate in the country, under the supervision and direct control of their parent company, either through a subsidiary established in Chile or through an agency, we provide legal representation and fiscal control services with the support of the accountants and tax specialists who work on the team.
+   <p> &nbsp; For foreign companies that want to operate in the country, under the supervision and direct control of their parent company, either through a subsidiary established in Chile or through an agency, we provide legal representation and fiscal control services with the support of the accountants and tax specialists who work on the team. </p>
+   <p> &nbsp; We take care of the procedures for the establishment of the respective company and/or agency, shareholder registries and social books in relevant cases, the initiation of their activities and obtaining the RUT (Rol Único Tributario) at the Internal Tax Service (SII), and interaction with various authorities. We also handle corporate secretarial duties when relevant to the type of company, and regulatory compliance in accounting and tax matters. </p>
+   <p> &nbsp; Without being exhaustive, this service includes: </p>
+    <ol>
+      <li> Representing the company before third parties. This is usually one of the main services included in a company's legal representation. This involves representing the company in various situations, such as in key meetings, negotiations and financial or commercial transactions. </li> <br/>
 
-  We take care of the procedures for the establishment of the respective company and/or agency, shareholder registries and social books in relevant cases, the initiation of their activities and obtaining the RUT (Rol Único Tributario) at the Internal Tax Service (SII), and interaction with various authorities. We also handle corporate secretarial duties when relevant to the type of company, and regulatory compliance in accounting and tax matters.
+      <li> Legal advice. This service involves providing legal advice and guidance to the company in various areas of the law. This can include advising on contract issues, mergers and acquisitions, labor issues, environmental legislation and any other areas of law that may affect the company. </li> <br/>
 
-  Without being exhaustive, this service includes:
+      <li> Mediation and conflict resolution. In case of disagreements or legal conflicts with other companies or individuals, the legal representative will intervene to mediate and seek a solution. </li> <br/>
 
-      • Representing the company before third parties. This is usually one of the main services included in a company's legal representation. This involves representing the company in various situations, such as in key meetings, negotiations and financial or commercial transactions.
+      <li> Compliance with legal obligations. We strive to ensure that the company complies with all its legal obligations. This may include, among other things, the filing of financial reports, payment of taxes and adherence to labor laws and regulations. </li> <br/>
 
-      • Legal advice. This service involves providing legal advice and guidance to the company in various areas of the law. This can include advising on contract issues, mergers and acquisitions, labor issues, environmental legislation and any other areas of law that may affect the company.
+      <li> Contract management. We take responsibility for drafting, reviewing and negotiating the company's contracts. </li> <br/>
 
-      • Mediation and conflict resolution. In case of disagreements or legal conflicts with other companies or individuals, the legal representative will intervene to mediate and seek a solution.
+      <li> Representation in litigation. We take care of representing and defending the company when it is involved in any type of litigation. </li> <br/>
 
-      • Compliance with legal obligations. We strive to ensure that the company complies with all its legal obligations. This may include, among other things, the filing of financial reports, payment of taxes and adherence to labor laws and regulations.
+      <li> Protection of intellectual property. We protect the company's patents, trademarks, copyrights and other elements of intellectual property. </li> <br/>
 
-      • Contract management. We take responsibility for drafting, reviewing and negotiating the company's contracts.
+      <li> Assisting in decision making. We assist the company in policy and strategy matters, helping it make informed decisions. </li> <br/>
 
-      • Representation in litigation. We take care of representing and defending the company when it is involved in any type of litigation.
-
-      • Protection of intellectual property. We protect the company's patents, trademarks, copyrights and other elements of intellectual property.
-
-      • Assisting in decision making. We assist the company in policy and strategy matters, helping it make informed decisions.
-
-      • Management of regulatory issues. By staying up-to-date with all relevant laws and regulations, we support the company to remain compliant and avoid fines or penalties.
+      <li> Management of regulatory issues. By staying up-to-date with all relevant laws and regulations, we support the company to remain compliant and avoid fines or penalties. </li> <br/>
       
-      • Defense in audits and legal processes. We provide guidance and defense in audits, and/or administrative, labor, criminal, and tax reviews.
+      <li> Defense in audits and legal processes. We provide guidance and defense in audits, and/or administrative, labor, criminal, and tax reviews. </li> <br/>
 
-      • Advising on mergers, acquisitions and sales. If the company is considering merging with another company, acquiring it or selling it, we provide our advice and guidance throughout the process.`,
+      <li> Advising on mergers, acquisitions and sales. If the company is considering merging with another company, acquiring it or selling it, we provide our advice and guidance throughout the process. </li> 
+    </ol>
+      `,
 
   [tokens.areas.derecho_penal.title]: 'CRIMINAL LAW',
 
   [tokens.areas.derecho_penal.description]: `
-  We assist clients globally. Not only with regards to the criminal scopes of their case, but also in every aspect involved, including civil, commercial, tax, administrative, and others. We design and implement defense strategies, for individual and global actions. We provide specialized legal advice to private individuals and legal entities both in cases where they have been charged, as well as in those where they have brought charges.
+  <p> &nbsp; We assist clients globally. Not only with regards to the criminal scopes of their case, but also in every aspect involved, including civil, commercial, tax, administrative, and others. We design and implement defense strategies, for individual and global actions. We provide specialized legal advice to private individuals and legal entities both in cases where they have been charged, as well as in those where they have brought charges.</p>
 
-  We generally act in a preventive manner. We review, analyze and advise on any activity that could lead to criminal behavior, and regarding individuals or companies against which a claim has been made to pursue their financial liability.
+  <p> &nbsp; We generally act in a preventive manner. We review, analyze and advise on any activity that could lead to criminal behavior, and regarding individuals or companies against which a claim has been made to pursue their financial liability.</p> 
 
-  Without being exhaustive:
+  <p> &nbsp; Without being exhaustive: </p> 
 
-      • Criminal Defense: This is the most common service provided under criminal law. We assist those who have been charged in defending against the accusations brought against them.
+    <ol>
 
-      • Case Investigation: We conduct independent investigations, which include evidence gathering, witness interviews, and review of police reports and criminal backgrounds.
+      <li> Criminal Defense: This is the most common service provided under criminal law. We assist those who have been charged in defending against the accusations brought against them.</li> <br/>
 
-      • Plea Bargain Negotiations: We negotiate with the prosecutor to reduce the charges and sentences of the accused in exchange for a guilty plea.
+      <li> Case Investigation: We conduct independent investigations, which include evidence gathering, witness interviews, and review of police reports and criminal backgrounds.</li> <br/>
 
-      • Managing Defenses: If a deal cannot be reached, we represent the client in all stages of the trial. This involves the drafting and presenting of legal arguments before the court, and representing the accused throughout the entire trial.
+      <li> Plea Bargain Negotiations: We negotiate with the prosecutor to reduce the charges and sentences of the accused in exchange for a guilty plea.</li> <br/>
 
-      • Appeals: We appeal to higher courts in all cases where their intervention proves necessary.
+      <li> Managing Defenses: If a deal cannot be reached, we represent the client in all stages of the trial. This involves the drafting and presenting of legal arguments before the court, and representing the accused throughout the entire trial.</li> <br/>
 
-      • Legal Advice: We provide legal advice to individuals who may be at risk of facing criminal charges, and also to businesses that have been victims. In these cases, we design a collective action aimed at this purpose.
+      <li> Appeals: We appeal to higher courts in all cases where their intervention proves necessary.</li> <br/>
 
-      • Representation in Parole and Bail Proceedings: We defend the freedom of our charges and demand imprisonment and maximum precautionary measures for those we charge with a crime.
+      <li> Legal Advice: We provide legal advice to individuals who may be at risk of facing criminal charges, and also to businesses that have been victims. In these cases, we design a collective action aimed at this purpose.</li> <br/>
 
-      • Expungement or Removal of Criminal Records: We assist in expunging or removing certain charges or convictions from your criminal record.
+      <li> Representation in Parole and Bail Proceedings: We defend the freedom of our charges and demand imprisonment and maximum precautionary measures for those we charge with a crime.</li> <br/>
 
-      • Representation in Extradition Proceedings: We also include representation services in extradition proceedings for those who are being extradited to another country to face criminal charges.`,
+      <li> Expungement or Removal of Criminal Records: We assist in expunging or removing certain charges or convictions from your criminal record.</li> <br/>
+
+      <li> Representation in Extradition Proceedings: We also include representation services in extradition proceedings for those who are being extradited to another country to face criminal charges.</li> <br/>
+      
+    <ol>  
+  `
+      ,
 
   [tokens.areas.derecho_internacional_privado.title]: 'PRIVATE INTERNATIONAL LAW',
 
   [tokens.areas.derecho_internacional_privado.description]: `
-  We have professionals with vast and successful experience in the analysis of Private International Law.
+   <p> &nbsp; We have professionals with vast and successful experience in the analysis of Private International Law.</p>
+   <p> &nbsp; Without being exhaustive, our services include:</p>
 
-  Without being exhaustive, our services include:
-
-      • Legal advice in international transactions: We support companies in understanding and navigating international business laws when conducting business abroad.
+    <ol>
+      <li> Legal advice in international transactions: We support companies in understanding and navigating international business laws when conducting business abroad.</li>     <br/>
       
-      • International litigation: in case of legal disputes involving parties in different jurisdictions, we coordinate and/or represent our clients in the relevant legal proceedings.
+      <li> International litigation: in case of legal disputes involving parties in different jurisdictions, we coordinate and/or represent our clients in the relevant legal proceedings.</li>     <br/>
       
-      • Mediation and International Arbitration: these services offer dispute resolution without resorting to judicial systems, which can save time and money.
+      <li> Mediation and International Arbitration: these services offer dispute resolution without resorting to judicial systems, which can save time and money.</li>     <br/>
       
-      • International intellectual property law: We coordinate and/or manage the protection of intellectual property rights abroad through patent, trademark, and copyright registration.
+      <li> International intellectual property law: We coordinate and/or manage the protection of intellectual property rights abroad through patent, trademark, and copyright registration.</li>     <br/>
       
-      • Immigration: We provide legal advice and representation on immigration matters, such as visa applications and obtaining citizenship.
+      <li> Immigration: We provide legal advice and representation on immigration matters, such as visa applications and obtaining citizenship.</li>     <br/>
       
-      • International tax law: We assist businesses and individuals in understanding and complying with foreign tax laws.
+      <li> International tax law: We assist businesses and individuals in understanding and complying with foreign tax laws.</li>     <br/>
       
-      • Advice on international treaties and conventions: We advise governments, international organizations, and private companies on the legal aspects of treaties and international agreements.
+      <li> Advice on international treaties and conventions: We advise governments, international organizations, and private companies on the legal aspects of treaties and international agreements.</li>     <br/>
       
-      • International competition law: We advise companies on antitrust policies, competition defense, and other aspects of world trade.`,
+      <li> International competition law: We advise companies on antitrust policies, competition defense, and other aspects of world trade.</li>     <br/>
+    </ol>
+      
+      `,
 
   [tokens.areas.informes_especializados_derecho.title]: 'SPECIALIZED REPORT IN LAW',
 
   [tokens.areas.informes_especializados_derecho.description]: `
-  Our office has prepared numerous reports in law in areas of its specialty. These reports are prepared by our specialist lawyers and can be requested by individuals, companies, organizations, institutions or courts that require specialized advice. These reports:
+    <p> &nbsp; Our office has prepared numerous reports in law in areas of its specialty. </p>
+    
+    <p> &nbsp; These reports are prepared by our specialist lawyers and can be requested by individuals, companies, organizations, institutions or courts that require specialized advice. These reports: </p>
 
-      • Evaluate the legality of a situation: Experts analyze the evidence and facts presented, applying the relevant laws and regulations to determine whether the rules are being followed or not.
+    <ol>
+      <li> Evaluate the legality of a situation: Experts analyze the evidence and facts presented, applying the relevant laws and regulations to determine whether the rules are being followed or not.</li> <br/>
 
-      • Advise on legal cases: They help understand the best way to proceed and make decisions based on rigorous legal analysis.
+      <li> Advise on legal cases: They help understand the best way to proceed and make decisions based on rigorous legal analysis.</li> <br/>
 
-      • Serve as evidence in litigation cases: Sometimes, law reports are presented in a trial when an expert and objective analysis of the disputed matter is needed.
+      <li> Serve as evidence in litigation cases: Sometimes, law reports are presented in a trial when an expert and objective analysis of the disputed matter is needed.</li> <br/>
 
-      • Explain laws and precedents: Law reports also clarify how a particular law applies and how previous cases that have set a legal precedent have influenced it.
+      <li> Explain laws and precedents: Law reports also clarify how a particular law applies and how previous cases that have set a legal precedent have influenced it.</li> <br/>
 
-      • Help to create and modify legislations: Legislators can request these reports to better understand the implications of a law or regulation they are considering.`,
+      <li> Help to create and modify legislations: Legislators can request these reports to better understand the implications of a law or regulation they are considering. </li> <br/>
+    </ol>  
+    `,
 
   [tokens.areas.practica_general.title]: 'GENERAL PRACTICE',
 
   [tokens.areas.practica_general.description]: `
-  Our legal team practices directly or with support from other national and international offices in all areas of law. Among other things, we advise companies on identifying and managing the legal and operational risks they face in their activity.`
+  <p> &nbsp; Our legal team practices directly or with support from other national and international offices in all areas of law. Among other things, we advise companies on identifying and managing the legal and operational risks they face in their activity. </p>`
       
 };

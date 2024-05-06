@@ -95,13 +95,13 @@ function Page() {
          
             <Typography 
               color="text.secondary" 
-              className="whiteSpace textAlignJustify lineHeight-1"
+              className="textAlignJustify lineHeight-1 listStyleDisc"
               variant="body1"
+              dangerouslySetInnerHTML={{__html: t(tokens.areas[ code ].description)}}
               sx={{
                 px: 5
               }}
             >
-                { t(tokens.areas[ code ].description) }
             </Typography>
         </Container>
       </>
