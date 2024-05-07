@@ -19,6 +19,9 @@ import MailIcon from '@mui/icons-material/Mail';
 import { Avatar, Box, Container, Tooltip } from "@mui/material";
 import BookIcon from '@mui/icons-material/Book';
 import CategoryIcon from '@mui/icons-material/Category';
+import Link from "next/link";
+
+import { RouterLink } from "src/components/router-link";
 
 const drawerWidth = 240;
 
@@ -99,13 +102,13 @@ const menu : Array<{ name :string , icon : JSX.Element , url: string }> = [
   {
     name : 'Areas',
     icon : <CategoryIcon />,
-    url  : 'areas'
+    url  : '/auth/areas'
   },
 
   {
     name : 'Blog',
     icon : <BookIcon />,
-    url  : 'blog'
+    url  : '/auth/blog'
   },
 ];
 
@@ -179,32 +182,45 @@ export const AuthLayout: FC<AuthLayoutProps> = (props) => {
                 <Divider />
                 <List>
                 {['Dashboard'].map((text, index) => (
-                    <ListItem key={text} disablePadding sx={{ display: 'block' }}>
-                    <ListItemButton
-                        sx={{
-                        minHeight: 48,
-                        justifyContent: open ? 'initial' : 'center',
-                        px: 2.5,
-                        }}
-                    >
-                        <ListItemIcon
-                        sx={{
-                            minWidth: 0,
-                            mr: open ? 3 : 'auto',
-                            justifyContent: 'center',
-                        }}
-                        >
-                        {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-                        </ListItemIcon>
-                        <ListItemText primary={text} sx={{ opacity: open ? 1 : 0 }} />
-                    </ListItemButton>
+
+                  <Link  
+                    href={`/auth/dashboard`}
+                    key={index} 
+                    style={{ textDecoration: 'none', color: "white"}}
+                  >
+                    <ListItem disablePadding sx={{ display: 'block' }}>
+                      <ListItemButton
+                          sx={{
+                          minHeight: 48,
+                          justifyContent: open ? 'initial' : 'center',
+                          px: 2.5,
+                          }}
+                      >
+                          <ListItemIcon
+                          sx={{
+                              minWidth: 0,
+                              mr: open ? 3 : 'auto',
+                              justifyContent: 'center',
+                          }}
+                          >
+                          {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
+                          </ListItemIcon>
+                          <ListItemText primary={text} sx={{ opacity: open ? 1 : 0 }} />
+                      </ListItemButton>
                     </ListItem>
+                  </Link>
+                    
                 ))}
                 </List>
                 <Divider />
                 <List>
                 {menu.map(({ url , icon , name } , key ) => (
-                    <ListItem key={key} disablePadding sx={{ display: 'block' }}>
+                  <Link  
+                      href={`${ url }`}
+                      key={key} 
+                      style={{ textDecoration: 'none', color: "white"}}
+                    >
+                    <ListItem disablePadding sx={{ display: 'block' }}>
                     <ListItemButton
                         sx={{
                           minHeight: 48,
@@ -224,12 +240,15 @@ export const AuthLayout: FC<AuthLayoutProps> = (props) => {
                         <ListItemText primary={name} sx={{ opacity: open ? 1 : 0 }} />
                     </ListItemButton>
                     </ListItem>
+
+
+                  </Link>
                 ))}
                 </List>
             </Drawer>
-            {/* <Container sx={{ mt : 12 , width: '100%' ,flexGrow: 1 }} >
-                { children }
-            </Container> */}
+          <Container sx={{ mt : 12 }} >
+              { children }
+          </Container>
         </>
 
     );

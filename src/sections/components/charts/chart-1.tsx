@@ -109,12 +109,7 @@ export const Chart1: FC = () => {
   const chartOptions = useChartOptions();
 
   return (
-    <Box
-      sx={{
-        backgroundColor: (theme) => (theme.palette.mode === 'dark' ? 'neutral.800' : 'neutral.100'),
-        p: 3,
-      }}
-    >
+    <Box >
       <Card>
         <CardHeader title="Sales" />
         <CardContent>
