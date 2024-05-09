@@ -507,7 +507,22 @@ export const lawyers: Lawyer[] = [
     publications: tokens.form.maxPublications as string,
     languages: tokens.form.maxLanguages as string,
   },
-
+  {
+    id: '53',
+    name: 'Martin Campero Mantelli',
+    email: 'mcapero@vla.cl',
+    title: tokens.form.martinCamperoMantelliTitle as string,
+    cover: '/assets/team/martin-campero.jpg',
+    image: '/assets/team/martin-campero.jpg',
+    userurl: 'martin-campero',
+    bio: tokens.form.martinCamperoMantelliBio as string,
+    intro: tokens.form.martinCamperoMantelliIntro as string,
+    education: tokens.form.martinCamperoMantelliEducation as string,
+    professional: tokens.form.martinCamperoMantelliProfessionalAca as string,
+    experience: tokens.form.martinCamperoMantelliExperiencePro as string,
+    publications: tokens.form.martinCamperoMantelliPublications as string,
+    languages: tokens.form.martinCamperoMantelliLanguages as string,
+  },
 // 2. AUDITORS
 
   {
@@ -597,23 +612,6 @@ export const lawyers: Lawyer[] = [
     experience: tokens.form.darelysExperiencePro as string,
     publications: tokens.form.darelysPublications as string,
     languages: tokens.form.darelysLanguages as string,
-  },
-
-  {
-    id: '53',
-    name: 'Martin Campero Mantelli',
-    email: 'mcapero@vla.cl',
-    title: tokens.form.darelysTitle as string,
-    cover: '/assets/team/martin-campero.jpg',
-    image: '/assets/team/martin-campero.jpg',
-    userurl: 'martin-campero',
-    bio: tokens.form.martinCamperoMantelliBio as string,
-    intro: tokens.form.martinCamperoMantelliIntro as string,
-    education: tokens.form.martinCamperoMantelliEducation as string,
-    professional: tokens.form.martinCamperoMantelliProfessionalAca as string,
-    experience: tokens.form.martinCamperoMantelliExperiencePro as string,
-    publications: tokens.form.martinCamperoMantelliPublications as string,
-    languages: tokens.form.martinCamperoMantelliLanguages as string,
   },
 
 

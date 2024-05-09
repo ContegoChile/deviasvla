@@ -678,292 +678,302 @@ export const es = {
   //areas
   [tokens.areas.corporativo.title]: 'CORPORATIVO',
   [tokens.areas.corporativo.description]: `
-  Prestamos asesoría en todos los aspectos corporativos de las empresas, su funcionamiento interno, su estructura y organización, los derechos y deberes de los accionistas y directores o los socios y administradores,  la relación que debe mantener la compañía con los entes y autoridades estatales, la sociedad y los distintos agentes comerciales, entre otros aspectos.
+  <p> &nbsp; Prestamos asesoría en todos los aspectos corporativos de las empresas, su funcionamiento interno, su estructura y organización, los derechos y deberes de los accionistas y directores o los socios y administradores,  la relación que debe mantener la compañía con los entes y autoridades estatales, la sociedad y los distintos agentes comerciales, entre otros aspectos. </p>
+  <p> &nbsp; Tras la publicación de la Ley Número 21.595, que sistematiza los delitos económicos y regula las penas y consecuencias adicionales aplicables a las personas responsables de estos delitos, particularmente de las personas jurídicas, se hace necesario que, en todas las actividades de carácter corporativo, se involucren no solo los especialistas del área, sino que también otros profesionales. </p>
+  <p> &nbsp; VLA dispone de un equipo multidisciplinario de especialistas que abordan en conjunto las necesidades cada vez más compleja de los clientes. Su vasta experiencia, sumada a su reputación y trayectoria, permite dotar a su asesoría de la certeza y claridad que los clientes necesitan para adoptar sus decisiones. </p>
+  <p> &nbsp; Sin ser taxativos, en este servicio se incluye: </p>
 
-  Tras la publicación de la Ley Número 21.595, que sistematiza los delitos económicos y regula las penas y consecuencias adicionales aplicables a las personas responsables de estos delitos, particularmente de las personas jurídicas, se hace necesario que, en todas las actividades de carácter corporativo, se involucren no solo los especialistas del área, sino que también otros profesionales.
+  <ol>
+      <li> La creación, y modificación de sociedades. También su reestructuración. </li> <br/>
 
-  VLA dispone de un equipo multidisciplinario de especialistas que abordan en conjunto las necesidades cada vez más compleja de los clientes. Su vasta experiencia, sumada a su reputación y trayectoria, permite dotar a su asesoría de la certeza y claridad que los clientes necesitan para adoptar sus decisiones.
+      <li> La elaboración de pactos de accionistas y estatutos con cláusulas ad-hoc de resguardo. </li> <br/>
 
-  Sin ser taxativos, en este servicio se incluye:
+      <li> La asistencia como secretario en las Juntas de accionistas y sesiones de directorio. </li> <br/>
 
-      • La creación, y modificación de sociedades. También su reestructuración.
+      <li> El registro y custodia de los registros de la empresa. </li> <br/>
 
-      • La elaboración de pactos de accionistas y estatutos con cláusulas ad-hoc de resguardo.
+      <li> La asistencia en la redacción de contratos, con el apoyo de otras áreas de la oficina, cuando ello sea necesario. </li> <br/>
 
-      • La asistencia como secretario en las Juntas de accionistas y sesiones de directorio.
+      <li> La asistencia en el cumplimiento de las regulaciones y normas vigentes en la industria y ubicación geográfica donde opera. </li> <br/>
 
-      • El registro y custodia de los registros de la empresa.
+      <li> Proporciona orientación sobre cómo debe dirigirse la corporación para ser justa y transparente con sus accionistas. </li>
+  
+  </ol>
 
-      • La asistencia en la redacción de contratos, con el apoyo de otras áreas de la oficina, cuando ello sea necesario.
-
-      • La asistencia en el cumplimiento de las regulaciones y normas vigentes en la industria y ubicación geográfica donde opera.
-
-      • Proporciona orientación sobre cómo debe dirigirse la corporación para ser justa y transparente con sus accionistas.
-      
-  Esto no es una lista exhaustiva, pero cubre muchos de los servicios clave que se pueden esperar de un área legal corporativa. Cada corporación puede tener necesidades específicas dependiendo de su tamaño, industria y ubicación geográfica.`,
+  <p> &nbsp; Esto no es una lista exhaustiva, pero cubre muchos de los servicios clave que se pueden esperar de un área legal corporativa. Cada corporación puede tener necesidades específicas dependiendo de su tamaño, industria y ubicación geográfica. </p>`,
 
   [tokens.areas.fusiones_adquisiciones.title]: 'FUSIONES Y ADQUISICIONES',
 
   [tokens.areas.fusiones_adquisiciones.description]: `
-  Asistimos y representamos a los clientes en todas las etapas de una negociación y/o transacción empresarial. Partiendo por el due dilligence, el MOU, y terminando con la redacción y perfeccionamiento de los acuerdos y contratos finales, incluyendo transacciones de acciones y activos, fusiones internacionales, acuerdos de joint venture, tomas de control y ofertas de canje de sociedades listadas.
-
-  En las reestructuraciones empresariales, nos ocupamos especialmente con la administración de la corporación, que la operación tenga por finalidad mejorar o facilitar las condiciones del negocio; así como obtener ventajas competitivas; financiamiento; la eliminación o mitigación de costos o riesgos; aumentar la capacidad productiva o de presencia en el mercado; optimizar la administración o cualquier otra finalidad similar a las anteriormente señaladas y que, en cualquier caso, sea distinta a la meramente tributaria.
-
-  Ponemos también a disposición de nuestros clientes todo el equipo multidisciplinario que ejerce en VLA para asegurar que las transacciones y negocios que revisamos se perfeccionen de la mejor forma para los intereses del cliente. 
-
-  Tenemos experiencia representando vendedores, compradores, accionistas mayoritarios y minoritarios, a la sociedad adquirida, tanto abierta como cerrada, y a los financistas en una gran variedad de operaciones, incluyendo fusiones, divisiones, asociaciones comerciales, ofertas públicas y privadas de adquisición de acciones, reorganizaciones societarias y otros tipos de reestructuraciones. También ofrecemos a nuestros clientes apoyo en la búsqueda de socios estratégicos, capitalistas, y otras clases de prospectos comerciales.`,
+  <p> &nbsp; Asistimos y representamos a los clientes en todas las etapas de una negociación y/o transacción empresarial. Partiendo por el due dilligence, el MOU, y terminando con la redacción y perfeccionamiento de los acuerdos y contratos finales, incluyendo transacciones de acciones y activos, fusiones internacionales, acuerdos de joint venture, tomas de control y ofertas de canje de sociedades listadas.</p>
+  <p> &nbsp; En las reestructuraciones empresariales, nos ocupamos especialmente con la administración de la corporación, que la operación tenga por finalidad mejorar o facilitar las condiciones del negocio; así como obtener ventajas competitivas; financiamiento; la eliminación o mitigación de costos o riesgos; aumentar la capacidad productiva o de presencia en el mercado; optimizar la administración o cualquier otra finalidad similar a las anteriormente señaladas y que, en cualquier caso, sea distinta a la meramente tributaria.</p>
+  <p> &nbsp; Ponemos también a disposición de nuestros clientes todo el equipo multidisciplinario que ejerce en VLA para asegurar que las transacciones y negocios que revisamos se perfeccionen de la mejor forma para los intereses del cliente. </p>
+  <p> &nbsp; Tenemos experiencia representando vendedores, compradores, accionistas mayoritarios y minoritarios, a la sociedad adquirida, tanto abierta como cerrada, y a los financistas en una gran variedad de operaciones, incluyendo fusiones, divisiones, asociaciones comerciales, ofertas públicas y privadas de adquisición de acciones, reorganizaciones societarias y otros tipos de reestructuraciones. También ofrecemos a nuestros clientes apoyo en la búsqueda de socios estratégicos, capitalistas, y otras clases de prospectos comerciales.</p>`,
 
   [tokens.areas.tributaria.title]: 'TRIBUTARIA',
 
   [tokens.areas.tributaria.description]: `
-  Nuestro equipo multidisciplinario apoya a las empresas desde que se forman hasta que se liquidan. Destacamos por asistir a nuestros clientes en todos los ciclos, y especialmente en planeamientos y transacciones complejas. Revisamos y apoyamos su operatoria contractual. También los representamos administrativa y judicialmente. 
+  <p> &nbsp; Nuestro equipo multidisciplinario apoya a las empresas desde que se forman hasta que se liquidan. Destacamos por asistir a nuestros clientes en todos los ciclos, y especialmente en planeamientos y transacciones complejas. Revisamos y apoyamos su operatoria contractual. También los representamos administrativa y judicialmente.</p>
+  <p> &nbsp; Estamos capacitados para evaluar correctamente los riesgos relativos a materias tributarias. Nuestras respuestas sean verbales o por escrito, siempre se preceden de un estudio acabado de los alcances de lo que se quiere hacer. Privilegiamos que los negocios se hagan del mejor modo posible, esto es, con el mínimo de contingencias, y maximizando siempre los beneficios tributarios. Todo en el marco de la legalidad. Nuestro trabajo incluye el análisis –mayormente en la forma de opiniones legales y memorandos– de las implicancias tributarias de una transacción específica o modelo de negocios que nuestros clientes puedan tener o estar planificando, así como la revisión de la situación tributaria de sociedades dentro de sus grupos empresariales.</p>
+  <p> &nbsp; Junto con entregar una sólida defensa en sede administrativa y judicial, nuestro enfoque se basa en la proposición de mecanismos, acuerdos y acercamiento con las autoridades. Diseñamos e implementamos estrategias orientadas a lograr una solución administrativa de los conflictos o controversias tributarias, cuestión que hemos logrado en varios casos, algunos de ellos bastante mediáticos. </p>
 
-  Estamos capacitados para evaluar correctamente los riesgos relativos a materias tributarias. Nuestras respuestas sean verbales o por escrito, siempre se preceden de un estudio acabado de los alcances de lo que se quiere hacer. Privilegiamos que los negocios se hagan del mejor modo posible, esto es, con el mínimo de contingencias, y maximizando siempre los beneficios tributarios. Todo en el marco de la legalidad. Nuestro trabajo incluye el análisis –mayormente en la forma de opiniones legales y memorandos– de las implicancias tributarias de una transacción específica o modelo de negocios que nuestros clientes puedan tener o estar planificando, así como la revisión de la situación tributaria de sociedades dentro de sus grupos empresariales.
+  <p> &nbsp Sin ser taxativos, los servicios tributarios incluyen: </p>
 
-  Junto con entregar una sólida defensa en sede administrativa y judicial, nuestro enfoque se basa en la proposición de mecanismos, acuerdos y acercamiento con las autoridades. Diseñamos e implementamos estrategias orientadas a lograr una solución administrativa de los conflictos o controversias tributarias, cuestión que hemos logrado en varios casos, algunos de ellos bastante mediáticos. 
+  <ol>
+    
+    <li> Asesoramiento tributario: Asistimos a las empresas para cumplir con sus obligaciones fiscales de forma adecuada y eficiente. Hemos elaborado informes en Derecho para importantes causas tributarias. Incluso para el SII. </li>
 
-  Sin ser taxativos, los servicios tributarios incluyen:
+    <br/>
+    <li> Planeación tributaria: Elaboramos estrategias y planes para minimizar la carga tributaria de una empresa, siempre respetando la legislación vigente.</li>
+    <br/>
 
-      • Asesoramiento tributario: Asistimos a las empresas para cumplir con sus obligaciones fiscales de forma adecuada y eficiente. Hemos elaborado informes en Derecho para importantes causas tributarias. Incluso para el SII. 
+    <li> Presentación y revisión de declaraciones de impuestos: Este servicio comprende la preparación y revisión de las declaraciones de impuestos de las empresas.</li>
+    <br/>
 
-      • Planeación tributaria: Elaboramos estrategias y planes para minimizar la carga tributaria de una empresa, siempre respetando la legislación vigente.
+    <li> Auditoría fiscal: Este servicio se encarga de revisar y verificar el cumplimiento de las obligaciones fiscales de una empresa.</li>
+    <br/>
 
-      • Presentación y revisión de declaraciones de impuestos: Este servicio comprende la preparación y revisión de las declaraciones de impuestos de las empresas.
+    <li> Defensa y representación ante la autoridad fiscal: Cuando hay un desacuerdo entre el contribuyente y las autoridades fiscales, representamos y defendemos al contribuyente.</li>
+    <br/>
 
-      • Auditoría fiscal: Este servicio se encarga de revisar y verificar el cumplimiento de las obligaciones fiscales de una empresa.
+    <li> Consultoría en precios de transferencia: Este servicio ofrece asesoramiento sobre las regulaciones y requisitos relacionados con los precios de transferencia.</li>
+    <br/>
 
-      • Defensa y representación ante la autoridad fiscal: Cuando hay un desacuerdo entre el contribuyente y las autoridades fiscales, representamos y defendemos al contribuyente.
+    <li> Asesoría en impuestos indirectos: Ofrece asesoramiento en impuestos como el IVA, impuestos especiales, etc.</li>
+    <br/>
 
-      • Consultoría en precios de transferencia: Este servicio ofrece asesoramiento sobre las regulaciones y requisitos relacionados con los precios de transferencia.
+    <li> Asesoría en cumplimiento tributario internacional: Este servicio ofrece asesoramiento para cumplir con las obligaciones tributarias internacionales.</li>
+    <br/>
 
-      • Asesoría en impuestos indirectos: Ofrece asesoramiento en impuestos como el IVA, impuestos especiales, etc.
+    <li> Gestión de Contabilidad y Nóminas: Con este servicio se gestiona la contabilidad y la nómina en relación a los impuestos.</li>
+    <br/>
 
-      • Asesoría en cumplimiento tributario internacional: Este servicio ofrece asesoramiento para cumplir con las obligaciones tributarias internacionales.
+    <li>	Asesoría en la estructura fiscal de las empresas: Este servicio proporciona asesoramiento sobre cómo estructurar una empresa para ser más eficiente desde el punto de vista fiscal.</li>
+    <br/>
+    
+    <li>	Asesoramiento en fusiones y adquisiciones: Este servicio ofrece asesoramiento sobre los aspectos fiscales de las fusiones y adquisiciones.</li>
 
-      • Gestión de Contabilidad y Nóminas: Con este servicio se gestiona la contabilidad y la nómina en relación a los impuestos.
+    <br/>
+    <li>	Asesoría en impuestos sobre la renta y sobre el patrimonio: Este servicio proporciona asesoramiento sobre cómo gestionar los impuestos sobre la renta y el patrimonio.</li>
+        
+  </ol>
 
-      •	Asesoría en la estructura fiscal de las empresas: Este servicio proporciona asesoramiento sobre cómo estructurar una empresa para ser más eficiente desde el punto de vista fiscal.
-      
-      •	Asesoramiento en fusiones y adquisiciones: Este servicio ofrece asesoramiento sobre los aspectos fiscales de las fusiones y adquisiciones.
-
-      •	Asesoría en impuestos sobre la renta y sobre el patrimonio: Este servicio proporciona asesoramiento sobre cómo gestionar los impuestos sobre la renta y el patrimonio.
-
-  Estos servicios pueden variar de un país a otro debido a las diferencias en la legislación y las regulaciones fiscales.`,
+  <p> &nbsp Estos servicios pueden variar de un país a otro debido a las diferencias en la legislación y las regulaciones fiscales. </p>`,
 
   [tokens.areas.laboral.title]: 'LABORAL',
 
   [tokens.areas.laboral.description]: `
-  Nos comprometemos con distintas áreas de las empresas y sus necesidades. Entregamos solución y asesoría especializada en los distintos requerimientos y desafíos que surgen en las organizaciones.
-
-  Asistimos a las empresas en las dudas comunes que presenta la aplicación de la ley laboral. Apoyamos con un líder especializado las negociaciones colectivas y la relación con los sindicatos.
-
-  Las representamos ante la autoridad administrativa (Dirección del Trabajo) y en los tribunales laborales y en las Cortes.
-
-  Sin ser taxativos, nuestra asesoría incluye:
-
-      • Tras el reclutamiento y la selección de personal, redactamos el contrato de trabajo. Asistimos en sus modificaciones, y en el término de la relación laboral, con la redacción de los finiquitos correspondientes.
-
-      • Organizamos e impartimos charlas y seminarios de actualización. Remitimos también news letter, con actualización de las leyes laborales, y los dictámenes de la Dirección del Trabajo.
-
-      • Remuneración y beneficios: Los servicios de remuneración y beneficios se refieren a la estructuración de planes de compensación, considerando los alcances tributarios.
-
-      • Relaciones laborales: Gestionamos las relaciones entre la dirección y los empleados, manejando cualquier conflicto laboral y manteniendo las buenas relaciones laborales.
-
-      • Cumplimiento de leyes y regulaciones laborales: Procuramos que la empresa cumpla con todas las leyes y regulaciones laborales aplicables.
-
-      • Gestión de la salud y seguridad en el lugar de trabajo: Nos ocupamos de que los reglamentos y los contratos incluyan obligaciones orientadas a preservar el clima laboral, para efecto de garantizar un trabajo seguro y saludable.
-
-      • Administración de recursos humanos: Este servicio abarca una amplia gama de responsabilidades, incluyendo el mantenimiento de registros de empleados, la gestión de beneficios y la implementación de políticas y procedimientos.
-
-      • Consultoría laboral: Resolviendo problemas complejos relacionados con el personal, la productividad, el clima laboral, etc.
-
-      • Políticas de igualdad y diversidad: Procuramos que todos los empleados sean tratados de manera justa, independientemente de su raza, sexo, orientación sexual, religión, edad, discapacidad, etc.`,
+  <p> &nbsp; Nos comprometemos con distintas áreas de las empresas y sus necesidades. Entregamos solución y asesoría especializada en los distintos requerimientos y desafíos que surgen en las organizaciones.</p>
+  <p> &nbsp; Asistimos a las empresas en las dudas comunes que presenta la aplicación de la ley laboral. Apoyamos con un líder especializado las negociaciones colectivas y la relación con los sindicatos.</p>
+  <p> &nbsp; Las representamos ante la autoridad administrativa (Dirección del Trabajo) y en los tribunales laborales y en las Cortes.</p>
+  <p> &nbsp; Sin ser taxativos, nuestra asesoría incluye:</p>
+  <ol>
+    <li> Tras el reclutamiento y la selección de personal, redactamos el contrato de trabajo. Asistimos en sus modificaciones, y en el término de la relación laboral, con la redacción de los finiquitos correspondientes. </li> <br/>
+    <li> Organizamos e impartimos charlas y seminarios de actualización. Remitimos también news letter, con actualización de las leyes laborales, y los dictámenes de la Dirección del Trabajo. </li> <br/>
+    <li> Remuneración y beneficios: Los servicios de remuneración y beneficios se refieren a la estructuración de planes de compensación, considerando los alcances tributarios. </li> <br/>
+    <li> Relaciones laborales: Gestionamos las relaciones entre la dirección y los empleados, manejando cualquier conflicto laboral y manteniendo las buenas relaciones laborales. </li> <br/>
+    <li> Cumplimiento de leyes y regulaciones laborales: Procuramos que la empresa cumpla con todas las leyes y regulaciones laborales aplicables. </li> <br/>
+    <li> Gestión de la salud y seguridad en el lugar de trabajo: Nos ocupamos de que los reglamentos y los contratos incluyan obligaciones orientadas a preservar el clima laboral, para efecto de garantizar un trabajo seguro y saludable. </li> <br/>
+    <li> Administración de recursos humanos: Este servicio abarca una amplia gama de responsabilidades, incluyendo el mantenimiento de registros de empleados, la gestión de beneficios y la implementación de políticas y procedimientos. </li> <br/>
+    <li> Consultoría laboral: Resolviendo problemas complejos relacionados con el personal, la productividad, el clima laboral, etc. </li> <br/>
+    <li> Políticas de igualdad y diversidad: Procuramos que todos los empleados sean tratados de manera justa, independientemente de su raza, sexo, orientación sexual, religión, edad, discapacidad, etc. </li> 
+  </ol>
+      `,
   
   [tokens.areas.aguas.title]: 'AGUAS',
 
   [tokens.areas.aguas.description]: `
-  Estudiamos y proponemos soluciones respecto de derechos de aprovechamiento de aguas, tanto para su uso agrícola como industrial o sanitario. Evaluamos distintas variables relativas al derecho y su mercado específico. Tramitamos toda clase de concesión y autorizaciones relativas a derechos de aprovechamiento de aguas y sus obras complementarias ante los órganos de la administración del Estado con competencia en Derecho de Aguas y Derecho Administrativo en general. Gestionamos la regularización y perfeccionamiento de títulos de derechos de aguas. Asesoramos y representamos a los clientes cuando registran discrepancias con el cobro de patente por no uso y toda clase de fiscalizaciones con motivo del ejercicio de sus derechos de aprovechamiento. Asesoramos y representamos a los clientes frente a negociaciones o litigios relativos al ejercicio de sus derechos de aprovechamiento de aguas.`,
+  <p> &nbsp; Estudiamos y proponemos soluciones respecto de derechos de aprovechamiento de aguas, tanto para su uso agrícola como industrial o sanitario. Evaluamos distintas variables relativas al derecho y su mercado específico. Tramitamos toda clase de concesión y autorizaciones relativas a derechos de aprovechamiento de aguas y sus obras complementarias ante los órganos de la administración del Estado con competencia en Derecho de Aguas y Derecho Administrativo en general. Gestionamos la regularización y perfeccionamiento de títulos de derechos de aguas. Asesoramos y representamos a los clientes cuando registran discrepancias con el cobro de patente por no uso y toda clase de fiscalizaciones con motivo del ejercicio de sus derechos de aprovechamiento. Asesoramos y representamos a los clientes frente a negociaciones o litigios relativos al ejercicio de sus derechos de aprovechamiento de aguas.</p>`,
 
   [tokens.areas.litigios.title]: 'LITIGIOS',
 
   [tokens.areas.litigios.description]: `
-  Nuestra oficina dispone de un equipo conformado por especialistas, que están en posición de proveer el mejor servicio en el área de controversias, sean administrativas (especialmente tributarias y SERNAC) como judiciales, y sea ésta en tribunales ordinarios o arbitrales. 
+   <p> &nbsp; Nuestra oficina dispone de un equipo conformado por especialistas, que están en posición de proveer el mejor servicio en el área de controversias, sean administrativas (especialmente tributarias y SERNAC) como judiciales, y sea ésta en tribunales ordinarios o arbitrales.  </p>
+   <p> &nbsp; Elaboramos mapas de defensa. Estructuramos teorías del caso, y conformamos y lideramos equipos de defensa en todos los escenarios, incluyendo alegatos ante los Tribunales superiores (Corte Apelaciones, Corte Suprema), o Tribunales especiales. </p>
+   <p> &nbsp; Nos permitimos enfatizar que nuestros abogados han representado con éxito a sus clientes en todos los ámbitos, y que varios de ellos han trascendido a la opinión pública, por su carácter mediático. Subrayamos también que nos coordinamos con otros estudios, y que en no pocas ocasiones entregamos el soporte profesional necesario para las implementaciones administrativas y/o contractuales. </p>
+   <p> &nbsp; Sin ser taxativos, bajo este servicio se incluye: </p>
+    <ol>
+      <li> Asesoramiento legal: Proporcionamos asesoramiento legal sobre cómo proceder con un determinado caso. Esto puede implicar la evaluación de los méritos de un caso, la presentación de documentos legales adecuados, el asesoramiento sobre la estrategia legal adecuada y otros consejos relacionados. </li> <br/>
 
-  Elaboramos mapas de defensa. Estructuramos teorías del caso, y conformamos y lideramos equipos de defensa en todos los escenarios, incluyendo alegatos ante los Tribunales superiores (Corte Apelaciones, Corte Suprema), o Tribunales especiales.
+      <li> Representación en juicio: Representamos a los clientes ante los tribunales para defender sus derechos y presentar sus argumentos. </li> <br/>
 
-  Nos permitimos enfatizar que nuestros abogados han representado con éxito a sus clientes en todos los ámbitos, y que varios de ellos han trascendido a la opinión pública, por su carácter mediático. Subrayamos también que nos coordinamos con otros estudios, y que en no pocas ocasiones entregamos el soporte profesional necesario para las implementaciones administrativas y/o contractuales.
+      <li> Negociaciones de acuerdos: Cuando es posible, ayudamos a negociar acuerdos fuera de tribunales para resolver las disputas de manera más rápida y efectiva. </li> <br/>
 
-  Sin ser taxativos, bajo este servicio se incluye:
+      <li> Mediación y arbitraje: En lugar de ir a juicio, a veces las partes pueden optar por métodos alternativos de resolución de disputas, como la mediación y el arbitraje. Estos procesos son generalmente más cortos y menos costosos que un juicio. </li> <br/>
 
-      • Asesoramiento legal: Proporcionamos asesoramiento legal sobre cómo proceder con un determinado caso. Esto puede implicar la evaluación de los méritos de un caso, la presentación de documentos legales adecuados, el asesoramiento sobre la estrategia legal adecuada y otros consejos relacionados.
+      <li> Investigación y recolección de pruebas: Podemos hacernos cargo de realizar investigaciones y recopilaciones de pruebas que se utilizarán en juicio. </li> <br/>
 
-      • Representación en juicio: Representamos a los clientes ante los tribunales para defender sus derechos y presentar sus argumentos.
-
-      • Negociaciones de acuerdos: Cuando es posible, ayudamos a negociar acuerdos fuera de tribunales para resolver las disputas de manera más rápida y efectiva.
-
-      • Mediación y arbitraje: En lugar de ir a juicio, a veces las partes pueden optar por métodos alternativos de resolución de disputas, como la mediación y el arbitraje. Estos procesos son generalmente más cortos y menos costosos que un juicio.
-
-      • Investigación y recolección de pruebas: Podemos hacernos cargo de realizar investigaciones y recopilaciones de pruebas que se utilizarán en juicio.
-
-      • Redacción de documentos legales: Elaboramos y presentamos no solo los escritos de estilo en los juicios, sino que también redactamos una variedad de documentos legales, como minutas, informes, propuestas de conciliación y/o mediación.
+      <li> Redacción de documentos legales: Elaboramos y presentamos no solo los escritos de estilo en los juicios, sino que también redactamos una variedad de documentos legales, como minutas, informes, propuestas de conciliación y/o mediación. </li> <br/>
       
-      • Consultas y confirmación de cumplimiento: Trabajamos con los clientes en un contexto preventivo. Les brindamos asesoramiento sobre cómo cumplir con la ley para evitar litigios en el futuro.
+      <li> Consultas y confirmación de cumplimiento: Trabajamos con los clientes en un contexto preventivo. Les brindamos asesoramiento sobre cómo cumplir con la ley para evitar litigios en el futuro. </li> <br/>
 
-      • Gestión de crisis: En situaciones en las que un litigio puede tener graves repercusiones en la reputación de una empresa o individuo, proporcionamos con los apoyos que correspondan, una guía estratégica.
+      <li> Gestión de crisis: En situaciones en las que un litigio puede tener graves repercusiones en la reputación de una empresa o individuo, proporcionamos con los apoyos que correspondan, una guía estratégica. </li> <br/>
 
-      • Testimonio de expertos: Trabajamos con expertos para consolidar su caso y proporcionar un testimonio convincente a la corte.
+      <li> Testimonio de expertos: Trabajamos con expertos para consolidar su caso y proporcionar un testimonio convincente a la corte. </li> <br/>
 
-      • Informes en derecho: Estudio especializado, con consulta de bibliografía, jurisprudencia y derecho comparado sobre algún punto de interpretación de la ley.`,
+      <li> Informes en derecho: Estudio especializado, con consulta de bibliografía, jurisprudencia y derecho comparado sobre algún punto de interpretación de la ley. </li>
+    </ol>    
+  `,
 
 
   [tokens.areas.conflictos_arbitraje.title]: 'SOLUCIÓN DE CONFLICTOS Y ARBITRAJE',
 
   [tokens.areas.conflictos_arbitraje.description]: `
-  Tenemos experiencia en arbitraje. Hemos participado en numerosos juicios arbitrales, sea ante jueces árbitros o ante árbitros de la Cámara de Comercio de Santiago (CAM). También ante la Cámara de Comercio Internacional (CCI), el Centro Internacional de Arreglo de Diferencias Relativas a Inversiones (CIADI), el Centro Internacional para la Resolución de Disputas de la Asociación Americana de Arbitraje (CIRD), la Corte de Arbitraje Internacional de Londres (LCIA) y la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (UNCITRAL).`,
+  <p> &nbsp;Tenemos experiencia en arbitraje. Hemos participado en numerosos juicios arbitrales, sea ante jueces árbitros o ante árbitros de la Cámara de Comercio de Santiago (CAM). También ante la Cámara de Comercio Internacional (CCI), el Centro Internacional de Arreglo de Diferencias Relativas a Inversiones (CIADI), el Centro Internacional para la Resolución de Disputas de la Asociación Americana de Arbitraje (CIRD), la Corte de Arbitraje Internacional de Londres (LCIA) y la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (UNCITRAL).</p>`,
 
   [tokens.areas.proteccion_consumidor.title]: 'PROTECCIÓN AL CONSUMIDOR',
 
   [tokens.areas.proteccion_consumidor.description]: `
-  Tenemos un equipo de abogados con experiencia en la Ley de Protección al Consumidor. Revisamos y corregimos los contratos de adhesión para evitar cláusulas abusivas. Respondemos también oficios y fiscalizaciones del Sernac. Contestamos los reclamos de consumidores, y representamos a las empresas en todas las instancias judiciales, procurando siempre el acercamiento y/o conciliación, sea por acciones individuales o colectivas.
+  <p> &nbsp; Tenemos un equipo de abogados con experiencia en la Ley de Protección al Consumidor. Revisamos y corregimos los contratos de adhesión para evitar cláusulas abusivas. Respondemos también oficios y fiscalizaciones del Sernac. Contestamos los reclamos de consumidores, y representamos a las empresas en todas las instancias judiciales, procurando siempre el acercamiento y/o conciliación, sea por acciones individuales o colectivas. </p>
 
-  Sin ser taxativos, nuestros servicios incluyen:
+  <p> &nbsp; Sin ser taxativos, nuestros servicios incluyen: </p>
 
-      • Asesoramiento legal: Identificamos los riesgos de la operación, y las contingencias en la interacción con los consumidores. Proponemos y redactamos cláusulas de resguardo.
+  <ol>
+    <li> Asesoramiento legal: Identificamos los riesgos de la operación, y las contingencias en la interacción con los consumidores. Proponemos y redactamos cláusulas de resguardo. </li> <br/>
       
-      • Representación en litigios: Defendemos a la empresa ante denuncias infraccionales, y demandas indemnizatorias individuales y/o colectivas.
+    <li> Representación en litigios: Defendemos a la empresa ante denuncias infraccionales, y demandas indemnizatorias individuales y/o colectivas. </li> <br/>
       
-      • Resolución de disputas: Negociamos acuerdos entre la empresa y los consumidores.
+    <li> Resolución de disputas: Negociamos acuerdos entre la empresa y los consumidores. </li> <br/>
       
-      • Asistencia en quejas formales: Documentamos situaciones de riesgo, y presentamos quejas a las organizaciones que protegen al consumidor.
+    <li> Asistencia en quejas formales: Documentamos situaciones de riesgo, y presentamos quejas a las organizaciones que protegen al consumidor. </li> <br/>
       
-      • Investigación: Revisamos la evidencia y la documentación pertinentes para construir un caso sólido.`,
+    <li> Investigación: Revisamos la evidencia y la documentación pertinentes para construir un caso sólido. </li> <br/>
+  </ol>  
+    
+  `,
   
   [tokens.areas.medio_ambiente.title]: 'MEDIO AMBIENTE',
 
   [tokens.areas.medio_ambiente.description]: `
-  El cumplimiento ambiental y regulatorio se ha convertido en uno de los aspectos más relevantes del desarrollo y operación de cualquier proyecto industrial y de servicios. Asesoramos a clientes de la industria energética, minera, de hidrocarburos, sanitaria, forestal, agrícola, vitivinícola y otras en la evaluación de sus riesgos ambientales, la revisión y solución de sus temas y conflictos ambientales, y la asistencia legal en sus procesos de obtención de permisos. Somos capaces de ofrecer un servicio global a nuestros clientes, asesorándolos no sólo desde la perspectiva regulatoria y ambiental, sino también en sus procesos de financiamiento, desarrollo de proyectos, y fusiones y adquisiciones, y en el número creciente de disputas ambientales que han surgido en los recientemente creados Tribunales Ambientales y Superintendencia del Medio Ambiente.`,
+  <p> &nbsp; El cumplimiento ambiental y regulatorio se ha convertido en uno de los aspectos más relevantes del desarrollo y operación de cualquier proyecto industrial y de servicios. Asesoramos a clientes de la industria energética, minera, de hidrocarburos, sanitaria, forestal, agrícola, vitivinícola y otras en la evaluación de sus riesgos ambientales, la revisión y solución de sus temas y conflictos ambientales, y la asistencia legal en sus procesos de obtención de permisos. Somos capaces de ofrecer un servicio global a nuestros clientes, asesorándolos no sólo desde la perspectiva regulatoria y ambiental, sino también en sus procesos de financiamiento, desarrollo de proyectos, y fusiones y adquisiciones, y en el número creciente de disputas ambientales que han surgido en los recientemente creados Tribunales Ambientales y Superintendencia del Medio Ambiente. </p> `,
 
   [tokens.areas.constitucional_administrativo.title]: 'CONSTITUCIONAL Y ADMINISTRATIVO',
 
   [tokens.areas.constitucional_administrativo.description]: `
-  Representamos a numerosos clientes ante las autoridades administrativas, públicas, órganos centralizados y descentralizados a nivel nacional y local, y cuerpos regulatorios.
+  <p> &nbsp; Representamos a numerosos clientes ante las autoridades administrativas, públicas, órganos centralizados y descentralizados a nivel nacional y local, y cuerpos regulatorios. </p>
   
-  Sin ser taxativos, nuestros servicios incluyen:
+  <p> &nbsp; Sin ser taxativos, nuestros servicios incluyen: </p>
 
-      • Asesoramiento legal en derecho administrativo: Esto incluye la interpretación y aplicación de normas administrativas, la preparación de solicitudes y reclamaciones, y la representación en procedimientos administrativos y judiciales.
+    <ol>
 
-      • Procedimientos administrativos: Manejamos todos los aspectos de los procedimientos administrativos, incluyendo la presentación de solicitudes y recursos, la representación en audiencias y la apelación de decisiones administrativas.
+      <li> Asesoramiento legal en derecho administrativo: Esto incluye la interpretación y aplicación de normas administrativas, la preparación de solicitudes y reclamaciones, y la representación en procedimientos administrativos y judiciales. </li> <br/>
 
-      • Licencias y permisos: Ayudamos a las empresas a obtener y mantener las licencias y permisos necesarios para sus operaciones. Esto puede incluir licencias de negocios, permisos de construcción, licencias de licores y permisos ambientales.
+      <li> Procedimientos administrativos: Manejamos todos los aspectos de los procedimientos administrativos, incluyendo la presentación de solicitudes y recursos, la representación en audiencias y la apelación de decisiones administrativas. </li> <br/>
 
-      • Contratación pública: Asesoramos a las empresas en el proceso de licitación y contratación pública, incluyendo la preparación de ofertas y la representación en disputas de contratación.
+      <li> Licencias y permisos: Ayudamos a las empresas a obtener y mantener las licencias y permisos necesarios para sus operaciones. Esto puede incluir licencias de negocios, permisos de construcción, licencias de licores y permisos ambientales. </li> <br/>
+
+      <li> Contratación pública: Asesoramos a las empresas en el proceso de licitación y contratación pública, incluyendo la preparación de ofertas y la representación en disputas de contratación. </li> <br/>
       
-      • Cumplimiento regulador: Asesoramos a las empresas sobre cómo cumplir con las regulaciones gubernamentales. Esto puede incluir la interpretación de nuevas regulaciones, la realización de auditorías de cumplimiento y la defensa en procedimientos de cumplimiento.
+      <li> Cumplimiento regulador: Asesoramos a las empresas sobre cómo cumplir con las regulaciones gubernamentales. Esto puede incluir la interpretación de nuevas regulaciones, la realización de auditorías de cumplimiento y la defensa en procedimientos de cumplimiento. </li> <br/>
 
-      • Responsabilidad administrativa: Esto incluye la defensa de los clientes en casos de responsabilidad administrativa, que puede resultar de violaciones de regulaciones o normas administrativas.
+      <li> Responsabilidad administrativa: Esto incluye la defensa de los clientes en casos de responsabilidad administrativa, que puede resultar de violaciones de regulaciones o normas administrativas. </li> <br/>
 
-      • Resolución de disputas administrativas: Representamos a los clientes en disputas con agencias gubernamentales o entidades reguladoras.`,
+      <li> Resolución de disputas administrativas: Representamos a los clientes en disputas con agencias gubernamentales o entidades reguladoras. </li> <br/>
+
+    </ol>
+    `, 
 
   [tokens.areas.inversion_extranjera.title]: 'INVERSIÓN EXTRANJERA',
 
   [tokens.areas.inversion_extranjera.description]: `
-  Para las empresas extranjeras que quieran operar en el país, bajo el supervisión y control directo de su matriz, ya sea a través de una filial constituida en Chile o por medio de una agencia, le prestamos el servicio de representación legal y de control fiscal, con el apoyo de los contables y tributarios que trabajan en el equipo.
+   <p> &nbsp; Para las empresas extranjeras que quieran operar en el país, bajo el supervisión y control directo de su matriz, ya sea a través de una filial constituida en Chile o por medio de una agencia, le prestamos el servicio de representación legal y de control fiscal, con el apoyo de los contables y tributarios que trabajan en el equipo. </p>
+   <p> &nbsp; Nos ocupamos de los trámites de constitución de la respectiva sociedad y/o agencia, de los registros accionarios y libros sociales en los casos que corresponda, de su iniciación de actividades y obtención del RUT (Rol Único Tributario) ante el Servicio de Impuestos Internos (SII), y de la interacción con las distintas autoridades. También del secretariado corporativo, cuando corresponda al tipos social de que se trate, y del cumplimiento regulatorio en materia de contabilidad e impuestos. </p>
+   <p> &nbsp; Sin ser taxativos, este servicio incluye: </p>
+    <ol>
+      <li> Representar a la empresa ante terceros: Este suele ser uno de los servicios principales incluidos en la representación legal de una empresa. Implica representar a la empresa en diversas situaciones, como en reuniones importantes, negociaciones, y transacciones financieras o comerciales. </li> <br/>
 
-  Nos ocupamos de los trámites de constitución de la respectiva sociedad y/o agencia, de los registros accionarios y libros sociales en los casos que corresponda, de su iniciación de actividades y obtención del RUT (Rol Único Tributario) ante el Servicio de Impuestos Internos (SII), y de la interacción con las distintas autoridades. También del secretariado corporativo, cuando corresponda al tipos social de que se trate, y del cumplimiento regulatorio en materia de contabilidad e impuestos.
-  
-  Sin ser taxativos, este servicio incluye:
+      <li> Asesoramiento legal: Este servicio implica proporcionar asesoramiento y orientación legal a la empresa en diversas áreas del derecho. Esto puede incluir la asesoría en temas de contratos, fusiones y adquisiciones, problemas laborales, legislación ambiental y cualquier otra área de la ley que pueda afectar a la empresa. </li> <br/>
 
-      • Representar a la empresa ante terceros: Este suele ser uno de los servicios principales incluidos en la representación legal de una empresa. Implica representar a la empresa en diversas situaciones, como en reuniones importantes, negociaciones, y transacciones financieras o comerciales.
+      <li> Mediación y resolución de conflictos: En caso de desacuerdos o conflictos legales con otras empresas o individuos, el representante legal intervendrá para mediar y buscar una solución. </li> <br/>
 
-      • Asesoramiento legal: Este servicio implica proporcionar asesoramiento y orientación legal a la empresa en diversas áreas del derecho. Esto puede incluir la asesoría en temas de contratos, fusiones y adquisiciones, problemas laborales, legislación ambiental y cualquier otra área de la ley que pueda afectar a la empresa.
+      <li> Cumplimiento de las obligaciones legales: Procuramos que la empresa cumpla con todas sus obligaciones legales. Esto puede incluir , entre otros, la presentación de informes financieros, el pago de impuestos y la adherencia a las leyes y regulaciones laborales. </li> <br/>
 
-      • Mediación y resolución de conflictos: En caso de desacuerdos o conflictos legales con otras empresas o individuos, el representante legal intervendrá para mediar y buscar una solución.
+      <li> Gestión de contratos: Nos hacemos responsables de la redacción, revisión y negociación de los contratos de la empresa. </li> <br/>
 
-      • Cumplimiento de las obligaciones legales: Procuramos que la empresa cumpla con todas sus obligaciones legales. Esto puede incluir , entre otros, la presentación de informes financieros, el pago de impuestos y la adherencia a las leyes y regulaciones laborales.
+      <li> Representación en litigios: Nos encargamos de representarla y defenderla cuando la empresa se ve involucrada en cualquier tipo de litigio. </li> <br/>
 
-      • Gestión de contratos: Nos hacemos responsables de la redacción, revisión y negociación de los contratos de la empresa.
+      <li> Protección de propiedad intelectual: Protegemos las patentes, marcas registradas, derechos de autor y otros elementos de propiedad intelectual de la empresa. </li> <br/>
 
-      • Representación en litigios: Nos encargamos de representarla y defenderla cuando la empresa se ve involucrada en cualquier tipo de litigio.
+      <li> Asistir en la toma de decisiones: Asistimos a la empresa en cuestiones de política y estrategia, ayudándola a tomar decisiones informadas. </li> <br/>
 
-      • Protección de propiedad intelectual: Protegemos las patentes, marcas registradas, derechos de autor y otros elementos de propiedad intelectual de la empresa.
+      <li> Gestión de temas regulatorios: Al estar al día con todas las leyes y regulaciones pertinentes, apoyamos a la empresa para que se mantenga en cumplimiento y evite multas o sanciones. </li> <br/>
 
-      • Asistir en la toma de decisiones: Asistimos a la empresa en cuestiones de política y estrategia, ayudándola a tomar decisiones informadas.
+      <li> Defensa en auditorías y procesos legales: Proporcionamos orientación y defensa en las auditorías, y/o revisiones administrativas, laborales, penales, y fiscales.  </li> <br/>
 
-      • Gestión de temas regulatorios: Al estar al día con todas las leyes y regulaciones pertinentes, apoyamos a la empresa para que se mantenga en cumplimiento y evite multas o sanciones.
-
-      • Defensa en auditorías y procesos legales: Proporcionamos orientación y defensa en las auditorías, y/o revisiones administrativas, laborales, penales, y fiscales. 
-
-      • Asesoramiento en fusiones, adquisiciones y ventas: Si la empresa está considerando fusionarse con otra empresa, adquirirla o venderla, proporcionamos nuestro asesoramiento y orientación en todo el proceso.`,
+      <li> Asesoramiento en fusiones, adquisiciones y ventas: Si la empresa está considerando fusionarse con otra empresa, adquirirla o venderla, proporcionamos nuestro asesoramiento y orientación en todo el proceso. </li> 
+    </ol>
+      
+    `,
 
   [tokens.areas.derecho_penal.title]: 'DERECHO PENAL',
 
   [tokens.areas.derecho_penal.description]: `
-  Asistimos globalmente a los clientes. No solo en lo que respecta a los alcances penales de su caso, sino que en todos los aspectos involucrados, civiles, comerciales, tributarios, administrativos y otros. Diseñamos e implementamos estrategias de defensa, para acciones individuales y globales. Prestamos asesoramiento legal especializado a personas naturales y jurídicas tanto en los casos que ellos han sido imputados, como en los que ellos han imputado.
+  <p> &nbsp; Asistimos globalmente a los clientes. No solo en lo que respecta a los alcances penales de su caso, sino que en todos los aspectos involucrados, civiles, comerciales, tributarios, administrativos y otros. Diseñamos e implementamos estrategias de defensa, para acciones individuales y globales. Prestamos asesoramiento legal especializado a personas naturales y jurídicas tanto en los casos que ellos han sido imputados, como en los que ellos han imputado. </p>
 
-  Actuamos por lo general de forma preventiva. Revisamos, analizamos y aconsejamos en relación con cualquier actividad que pueda dar lugar a una conducta delictiva, y respecto de individuos o empresas contra las cuales se ha presentado un reclamo para perseguir su responsabilidad económica.
+  <p> &nbsp; Actuamos por lo general de forma preventiva. Revisamos, analizamos y aconsejamos en relación con cualquier actividad que pueda dar lugar a una conducta delictiva, y respecto de individuos o empresas contra las cuales se ha presentado un reclamo para perseguir su responsabilidad económica. </p>
 
-  Sin ser taxativos:
+  <p> &nbsp; Sin ser taxativos: </p>
+    <ol>
+      <li> Defensa en juicios penales: Este es el servicio más común proporcionado bajo el derecho penal. Ayudamos a los que han sido imputados a defenderse contra los cargos que se les imputan.</li> <br/>
 
-      • Defensa en juicios penales: Este es el servicio más común proporcionado bajo el derecho penal. Ayudamos a los que han sido imputados a defenderse contra los cargos que se les imputan.
+      <li> Investigación de caso: Llevamos investigaciones independientes, que incluyen la recopilación de pruebas, la entrevista de testigos y la revisión de informes policiales y antecedentes penales.</li> <br/>
 
-      • Investigación de caso: Llevamos investigaciones independientes, que incluyen la recopilación de pruebas, la entrevista de testigos y la revisión de informes policiales y antecedentes penales.
+      <li> Negociación de acuerdos de declaración de culpabilidad: Negociamos con el fiscal para reducir los cargos y las sentencias de los acusados a cambio de una declaración de culpabilidad.</li> <br/>
 
-      • Negociación de acuerdos de declaración de culpabilidad: Negociamos con el fiscal para reducir los cargos y las sentencias de los acusados a cambio de una declaración de culpabilidad.
+      <li> Gestionamos las defensas: Si no se puede llegar a un acuerdo, representamos al cliente, en todas las instancias del juicio. Esto implica la elaboración y la presentación de argumentos legales ante el tribunal y la representación del acusado durante todo el juicio.</li> <br/>
 
-      • Gestionamos las defensas: Si no se puede llegar a un acuerdo, representamos al cliente, en todas las instancias del juicio. Esto implica la elaboración y la presentación de argumentos legales ante el tribunal y la representación del acusado durante todo el juicio.
+      <li> Apelaciones: Recurrimos ante los tribunales superiores, en todos los casos que su intervención resulte necesaria.</li> <br/>
 
-      • Apelaciones: Recurrimos ante los tribunales superiores, en todos los casos que su intervención resulte necesaria.
+      <li> Asesoramiento legal: Proporcionamos asesoramiento legal a personas que podrían estar en riesgo de enfrentarse a cargos penales. También para las empresas que han sido víctimas. En estos casos, elaboramos una acción conjunta orientada a ese propósito.</li> <br/>
 
-      • Asesoramiento legal: Proporcionamos asesoramiento legal a personas que podrían estar en riesgo de enfrentarse a cargos penales. También para las empresas que han sido víctimas. En estos casos, elaboramos una acción conjunta orientada a ese propósito.
+      <li> Representación en procedimientos de libertad condicional y libertad provisional: Defendemos la libertad de nuestros imputados y reclamamos la prisión y el máximo de medidas cautelares a quienes imputamos un delito.</li> <br/>
 
-      • Representación en procedimientos de libertad condicional y libertad provisional: Defendemos la libertad de nuestros imputados y reclamamos la prisión y el máximo de medidas cautelares a quienes imputamos un delito.
+      <li> Expugnación o eliminación de antecedentes penales: Ayudamos a expugnar o eliminar ciertos cargos o condenas de sus antecedentes penales.</li> <br/>
 
-      • Expugnación o eliminación de antecedentes penales: Ayudamos a expugnar o eliminar ciertos cargos o condenas de sus antecedentes penales.
-
-      • Representación en procedimientos de extradición: También se incluyen servicios de representación en procedimientos de extradición para aquellos que están siendo extraditados a otro país para enfrentar cargos criminales.`,
+      <li> Representación en procedimientos de extradición: También se incluyen servicios de representación en procedimientos de extradición para aquellos que están siendo extraditados a otro país para enfrentar cargos criminales. </li> <br/>
+    </ol>
+    `,
 
   [tokens.areas.derecho_internacional_privado.title]: 'DERECHO INTERNACIONAL PRIVADO',
 
   [tokens.areas.derecho_internacional_privado.description]: `
-  Disponemos de profesionales con vasta y exitosa experiencia en el análisis del Derecho Internacional Privado. 
+  <p> &nbsp; Disponemos de profesionales con vasta y exitosa experiencia en el análisis del Derecho Internacional Privado.</p> 
 
-  Sin ser taxativos, nuestros servicios incluyen:
+  <p> &nbsp; Sin ser taxativos, nuestros servicios incluyen:</p>
 
-      • Asesoramiento legal en transacciones internacionales: Apoyamos a las empresas a comprender y navegar por las leyes comerciales internacionales al realizar negocios en el extranjero.
-
-      • Litigios internacionales: en caso de disputas legales que involucren partes que se encuentren en diferentes jurisdicciones, coordinamos y/o representamos a nuestros clientes en los procedimientos judiciales pertinentes.
-
-      • Mediación y Arbitraje internacional: estos servicios ofrecen resolución de disputas sin recurrir a sistemas judiciales, lo que puede ahorrar tiempo y dinero.
-
-      • Ley de propiedad intelectual internacional: Coordinamos y/o gestionamos la protección de los derechos de propiedad intelectual en el extranjero a través de registro de patentes, marcas y derechos de autor.
-
-      • Inmigración: Proporcionamos asesoramiento legal y representación en asuntos de inmigración, tales como la solicitud de visas y la obtención de la ciudadanía.
-
-      • Derecho fiscal internacional: Asistimos a las empresas y a los individuos a entender y cumplir con las leyes fiscales extranjeras.
-
-      • Asesoramiento sobre tratados y convenios internacionales: Asesoramos a los gobiernos, organizaciones internacionales y empresas privadas sobre los aspectos legales de los tratados y acuerdos internacionales.
-
-      • Derecho de competencia internacional: Asesoramos a las empresas sobre políticas antimonopolio, defensa de la competencia y otros aspectos del comercio mundial.`,
+  <ol>
+    <li> Asesoramiento legal en transacciones internacionales: Apoyamos a las empresas a comprender y navegar por las leyes comerciales internacionales al realizar negocios en el extranjero. </li>     <br/>
+    <li> Litigios internacionales: en caso de disputas legales que involucren partes que se encuentren en diferentes jurisdicciones, coordinamos y/o representamos a nuestros clientes en los procedimientos judiciales pertinentes. </li>     <br/>
+    <li> Mediación y Arbitraje internacional: estos servicios ofrecen resolución de disputas sin recurrir a sistemas judiciales, lo que puede ahorrar tiempo y dinero. </li>     <br/>
+    <li> Ley de propiedad intelectual internacional: Coordinamos y/o gestionamos la protección de los derechos de propiedad intelectual en el extranjero a través de registro de patentes, marcas y derechos de autor. </li>     <br/>
+    <li> Inmigración: Proporcionamos asesoramiento legal y representación en asuntos de inmigración, tales como la solicitud de visas y la obtención de la ciudadanía. </li>     <br/>
+    <li> Derecho fiscal internacional: Asistimos a las empresas y a los individuos a entender y cumplir con las leyes fiscales extranjeras. </li>     <br/>
+    <li> Asesoramiento sobre tratados y convenios internacionales: Asesoramos a los gobiernos, organizaciones internacionales y empresas privadas sobre los aspectos legales de los tratados y acuerdos internacionales. </li>     <br/>
+    <li> Derecho de competencia internacional: Asesoramos a las empresas sobre políticas antimonopolio, defensa de la competencia y otros aspectos del comercio mundial. </li>     <br/>
+  </ol>    
+  `,
   
   [tokens.areas.informes_especializados_derecho.title]: 'INFORME ESPECIALIZADO EN DERECHO',
 
   [tokens.areas.informes_especializados_derecho.description]: `
-  Nuestra oficina ha elaborado numerosos informes en derecho en áreas de su especialidad. 
+  <p> &nbsp; Nuestra oficina ha elaborado numerosos informes en derecho en áreas de su especialidad. </p>
 
-  Estos informes son elaborados por nuestros abogados especialistas y pueden ser solicitados por particulares, empresas, organismos, instituciones o tribunales que requieran un asesoramiento especializado. Estos informes:
+  <p> &nbsp; Estos informes son elaborados por nuestros abogados especialistas y pueden ser solicitados por particulares, empresas, organismos, instituciones o tribunales que requieran un asesoramiento especializado. Estos informes: </p>
+  <ol>
+    <li> Evalúan la legalidad de una situación: Los expertos analizan las evidencias y hechos presentados, aplicando las leyes y normativas correspondientes para determinar si se cumple con las reglas o no. </li> <br/>
+
+    <li> Asesoran en casos legales: Ayudan a entender cuál es la mejor forma de proceder y tomar decisiones basándose en un análisis legal riguroso. </li> <br/>
+
+    <li> Sirven como evidencia en casos de litigio: En ocasiones, los informes en derecho son presentados en un juicio cuando se necesita un análisis experto y objetivo sobre la materia en disputa. </li> <br/>
+
+    <li> Explican leyes y precedentes: Los informes en derecho también aclaran cómo se aplica una ley en particular y cómo han influido los casos anteriores que han establecido un precedente legal. </li> <br/>
+
+    <li> Ayudan a crear y modificar legislaciones: Los legisladores pueden solicitar estos informes para entender mejor las implicaciones de una ley o normativa que están considerando. </li> <br/>
+  </ol>  
+  `,
   
-      • Evalúan la legalidad de una situación: Los expertos analizan las evidencias y hechos presentados, aplicando las leyes y normativas correspondientes para determinar si se cumple con las reglas o no. 
-
-      • Asesoran en casos legales: Ayudan a entender cuál es la mejor forma de proceder y tomar decisiones basándose en un análisis legal riguroso. 
-
-      • Sirven como evidencia en casos de litigio: En ocasiones, los informes en derecho son presentados en un juicio cuando se necesita un análisis experto y objetivo sobre la materia en disputa. 
-
-      • Explican leyes y precedentes: Los informes en derecho también aclaran cómo se aplica una ley en particular y cómo han influido los casos anteriores que han establecido un precedente legal. 
-
-      • Ayudan a crear y modificar legislaciones: Los legisladores pueden solicitar estos informes para entender mejor las implicaciones de una ley o normativa que están considerando.`,
-
   [tokens.areas.practica_general.title]: 'PRÁCTICA GENERAL',
 
   [tokens.areas.practica_general.description]: `
-  Nuestro equipo legal ejerce directamente o con apoyo de otras oficinas nacionales e internacionales en todas las áreas del derecho. Entre otras cosas, asesoramos a las empresas para identificar y gestionar los riesgos legales y operativos a los que se enfrenta en su actividad.`
+  <p> &nbsp; Nuestro equipo legal ejerce directamente o con apoyo de otras oficinas nacionales e internacionales en todas las áreas del derecho. Entre otras cosas, asesoramos a las empresas para identificar y gestionar los riesgos legales y operativos a los que se enfrenta en su actividad. </p>`
 };

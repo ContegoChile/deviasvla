@@ -39,3 +39,7 @@
 .lineHeight-1 {
     line-height: 1.7 !important;
 }
+
+.listStyleDisc ol{
+    list-style-type: disc;
+}
