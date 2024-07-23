@@ -453,24 +453,6 @@ export const lawyers: Lawyer[] = [
   languages: tokens.form.mariaGLDLanguages as string,
 },
 
-// 22. João Castillo
-{
-  id: '22',
-    name: 'João Castillo',
-  email: 'jcastillo@vla.cl',
-  title: tokens.form.joaoTitle as string,
-  cover: '/assets/team/joao-castillo.jpg',
-  image: '/assets/team/joao-castillo.jpg',
-  userurl: 'joao-castillo',
-  bio: tokens.form.joaoBio as string,
-  intro: tokens.form.joaoIntro as string,
-  education: tokens.form.joaoEducation as string,
-  professional: tokens.form.joaoProfessionalAca as string,
-  experience: tokens.form.joaoExperiencePro as string,
-  publications: tokens.form.joaoPublications as string,
-  languages: tokens.form.joaoLanguages as string,
-},
-
 
 
 
