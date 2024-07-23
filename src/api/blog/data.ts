@@ -243,23 +243,6 @@ export const lawyers: Lawyer[] = [
     languages: tokens.form.rafaelLanguages as string, // Placehold
   },
 
-  {
-    id: '29',
-    name: 'Kyle Townley',
-    email: 'kyle@vla.cl',
-    title: tokens.form.kyleTitle as string, // Placeholder token for title
-    cover: '/assets/team/kyle-townley.jpg', // Placeholder
-    image: '/assets/team/kyle-townley.jpg', // Placeholder
-    userurl: 'kyle-townley',
-    bio: tokens.form.kyleBio as string, // Placeholder token for bio
-    intro: tokens.form.kyleIntro as string, // Placeholder token for intro
-    education: tokens.form.kyleEducation as string, // Placeholder token for education
-    professional: tokens.form.kyleProfessionalAca as string, // Placeholder token for professional activity
-   experience: tokens.form.kyleExperiencePro as string, // Placeholder token for professional experience
-    publications: tokens.form.kylePublications as string, // Placeholder token for publications
-  languages: tokens.form.kyleLanguages as string, // Placeholder token for languages
-  },
-
 
   {
     id: '11',
