@@ -34,9 +34,8 @@ const Page: NextPage = () => {
 const { t } = useTranslation();
   const router = useRouter();
   const { userurl } = router.query;
-
-
-  const lawyer = lawyers.find(l => l.userurl === userurl);
+  
+  const lawyer = lawyers.find(l => l.userurl.replace("team/", "") === userurl);
 
   if (!lawyer) {
     return <div>Lawyer not found</div>;
