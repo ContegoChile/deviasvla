@@ -73,7 +73,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.carlosTitle as string,
     cover: '/assets/team/villarroel.jpg',
     image: '/assets/team/villarroel.jpg',
-    userurl: 'team/carlos-villarroel',
+    userurl: 'carlos-villarroel',
     bio: tokens.form.carlosBio as string, // Truncated for brevity
     intro: tokens.form.carlosIntro as string, // Truncated for brevity
     education: tokens.form.carlosEducation as string, // Truncated for brevity
@@ -91,7 +91,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.gabrielTitle as string,
     cover: '/assets/team/villarroel-g.jpg',
     image: '/assets/team/villarroel-g.jpg',
-    userurl: 'team/gabriel-villarroel',
+    userurl: 'gabriel-villarroel',
     bio: tokens.form.gabrielBio as string, // Truncated for brevity
     intro: tokens.form.gabrielIntro as string, // Truncated for brevity
     education: tokens.form.gabrielEducation as string, // Truncated for brevity
@@ -109,7 +109,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.raulTitle as string,
     cover: '/assets/team/raul-lecaros.jpg',
     image: '/assets/team/raul-lecaros.jpg',
-    userurl: 'team/raul-lecaros',
+    userurl: 'raul-lecaros',
     bio: tokens.form.raulBio as string, // Truncated for brevity
     intro: tokens.form.raulIntro as string, // Truncated for brevity
     education: tokens.form.raulEducation as string, // Truncated for brevity
@@ -127,7 +127,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.christianTitle as string,
     cover: '/assets/team/ch-aste.jpg',
     image: '/assets/team/ch-aste.jpg',
-    userurl: 'team/christian-aste',
+    userurl: 'christian-aste',
     bio: tokens.form.christianBio as string, // Truncated for brevity
     intro: tokens.form.christianIntro as string, // Truncated for brevity
     education: tokens.form.christianEducation as string, // Truncated for brevity
@@ -144,7 +144,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.juanTitle as string, // Placeholder token for title
     cover: '/assets/team/juan-cristobal.jpg',
     image: '/assets/team/juan-cristobal.jpg',
-    userurl: 'team/juan-cristobal-jaramillo',
+    userurl: 'juan-cristobal-jaramillo',
     bio: tokens.form.juanBio as string, // Placeholder token for bio
     intro: tokens.form.juanIntro as string, // Placeholder token for intro
     education: tokens.form.juanEducation as string, // Placeholder token for education
@@ -162,7 +162,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.carolinaTitle as string, // Add title here
     cover: '/assets/team/langlois.jpg', // Placeholder
     image: '/assets/team/langlois.jpg', // Placeholder
-    userurl: 'team/carolina-langlois',
+    userurl: 'carolina-langlois',
     education: tokens.form.carolinaEducation as string, // 'Magíster en Derecho de la Empresa, PUC (1998).'
    experience: tokens.form.carolinaExperiencePro as string, // 'Experiencia profesional: Abogado Jefe y Gerente de RRHH Grupo CCF.'
     professional: tokens.form.carolinaProfessionalAca as string, // 'Actividad Académica: Profesor de Derecho del Trabajo, PUC.'
@@ -179,7 +179,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.mariaTitle as string, // Placeholder token for title
     cover: '/assets/team/maria-lopez.jpg',
     image: '/assets/team/maria-lopez.jpg',
-    userurl: 'team/maria-lopez',
+    userurl: 'maria-lopez',
     bio: tokens.form.mariaBio as string, // Placeholder token for bio
     intro: tokens.form.mariaIntro as string, // Placeholder token for intro
     education: tokens.form.mariaEducation as string, // Placeholder token for education
@@ -197,7 +197,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.jaimeTitle as string, // Placeholder token for title
     cover: '/assets/team/jaime-valenzuela.jpg',
     image: '/assets/team/jaime-valenzuela.jpg',
-    userurl: 'team/jaime-valenzuela',
+    userurl: 'jaime-valenzuela',
     bio: tokens.form.jaimeBio as string, // Placeholder token for bio
     intro: tokens.form.jaimeIntro as string, // Placeholder token for intro
     education: tokens.form.jaimeEducation as string, // Placeholder token for education
@@ -215,7 +215,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.claudioTitle as string, // Placeholder token for title
     cover: '/assets/team/verdugo.jpg',
     image: '/assets/team/verdugo.jpg',
-    userurl: 'team/claudio-verdugo',
+    userurl: 'claudio-verdugo',
     bio: tokens.form.claudioBio as string, // Placeholder token for bio
     intro: tokens.form.claudioIntro as string, // Placeholder token for intro
     education: tokens.form.claudioEducation as string, // Placeholder token for education
@@ -233,7 +233,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.rafaelTitle as string, // Placeholder token for title
     cover: '/assets/team/rafael-del-valle.jpg',
     image: '/assets/team/rafael-del-valle.jpg',
-    userurl: 'team/rafael-del-valle',
+    userurl: 'rafael-del-valle',
     bio: tokens.form.rafaelBio as string, // Placeholder token for bio
     intro: tokens.form.rafaelIntro as string, // Placeholder token for intro
     education: tokens.form.rafaelEducation as string, // Placeholder token for education
@@ -251,7 +251,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.jorgeTitle as string,
     cover: '/assets/team/jorge-varela.jpg',
     image: '/assets/team/jorge-varela.jpg',
-    userurl: 'team/jorge-varela',
+    userurl: 'jorge-varela',
     bio: tokens.form.jorgeBio as string,
     intro: tokens.form.jorgeIntro as string,
     education: tokens.form.jorgeEducation as string,
@@ -269,7 +269,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.ricardoCBTitle as string,
     cover: '/assets/team/ricardo-celaya.jpg',
     image: '/assets/team/ricardo-celaya.jpg',
-    userurl: 'team/ricardo-celaya',
+    userurl: 'ricardo-celaya',
     bio: tokens.form.ricardoCBBio as string,
     intro: tokens.form.ricardoCBIntro as string,
     education: tokens.form.ricardoCBEducation as string,
@@ -286,7 +286,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.ricardoFSTitle as string,
     cover: '/assets/team/ricardo-freire.jpg',
     image: '/assets/team/ricardo-freire.jpg',
-    userurl: 'team/ricardo-freire',
+    userurl: 'ricardo-freire',
     bio: tokens.form.ricardoFSBio as string,
     intro: tokens.form.ricardoFSIntro as string,
     education: tokens.form.ricardoFSEducation as string,
@@ -304,7 +304,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.eduardoTitle as string,
     cover: '/assets/team/eduardo-silva.jpg',
     image: '/assets/team/eduardo-silva.jpg',
-    userurl: 'team/eduardo-silva',
+    userurl: 'eduardo-silva',
     bio: tokens.form.eduardoBio as string,
     intro: tokens.form.eduardoIntro as string,
     education: tokens.form.eduardoEducation as string,
@@ -321,7 +321,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.franciscoTitle as string,
     cover: '/assets/team/francisco-micheli.jpg',
     image: '/assets/team/francisco-micheli.jpg',
-    userurl: 'team/francisco-micheli-b',
+    userurl: 'francisco-micheli-b',
     education: tokens.form.franciscoEducation as string, // Add education here
     professional: tokens.form.franciscoProfessionalAca as string, // Add professional experience here
     experience: tokens.form.franciscoExperiencePro as string, // Add professional experience here
@@ -336,7 +336,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.franciscaTitle as string,
     cover: '/assets/team/francisca-moya.jpg',
     image: '/assets/team/francisca-moya.jpg',
-    userurl: 'team/francisca-moya',
+    userurl: 'francisca-moya',
     bio: tokens.form.franciscaBio as string,
     intro: tokens.form.franciscaIntro as string,
     education: tokens.form.franciscaEducation as string,
@@ -354,7 +354,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.catalinaTitle as string,
     cover: '/assets/team/catalina-faz.jpg',
     image: '/assets/team/catalina-faz.jpg',
-    userurl: 'team/catalina-faz',
+    userurl: 'catalina-faz',
     bio: tokens.form.catalinaBio as string,
     intro: tokens.form.catalinaIntro as string,
     education: tokens.form.catalinaEducation as string,
@@ -371,7 +371,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.diegoTitle as string,
     cover: '/assets/team/diego-nunez.jpg',
     image: '/assets/team/diego-nunez.jpg',
-    userurl: 'team/diego-nunez',
+    userurl: 'diego-nunez',
     bio: tokens.form.diegoBio as string,
     intro: tokens.form.diegoIntro as string,
     education: tokens.form.diegoEducation as string,
@@ -389,7 +389,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.luisTitle as string,
     cover: '/assets/team/luis-zurita.jpg',
     image: '/assets/team/luis-zurita.jpg',
-    userurl: 'team/luis-zurita',
+    userurl: 'luis-zurita',
     bio: tokens.form.luisBio as string,
     intro: tokens.form.luisIntro as string,
     education: tokens.form.luisEducation as string,
@@ -407,7 +407,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.fernandaTitle as string,
     cover: '/assets/team/fernanda-aste.jpeg',
     image: '/assets/team/fernanda-aste.jpeg',
-    userurl: 'team/fernanda-aste',
+    userurl: 'fernanda-aste',
     bio: tokens.form.fernandaBio as string,
     intro: tokens.form.fernandaIntro as string,
     education: tokens.form.fernandaEducation as string,
@@ -426,7 +426,7 @@ export const lawyers: Lawyer[] = [
   title: tokens.form.mariaGLDTitle as string,
   cover: '/assets/team/nofoto.jpg',
   image: '/assets/team/nofoto.jpg',
-  userurl: 'team/maria-gracia-labadia',
+  userurl: 'maria-gracia-labadia',
   bio: tokens.form.mariaGLDBio as string,
   intro: tokens.form.mariaGLDIntro as string,
   education: tokens.form.mariaGLDEducation as string,
@@ -446,7 +446,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.nelsonTitle as string,
     cover: '/assets/team/nelson-rodriguez.jpg',
     image: '/assets/team/nelson-rodriguez.jpg',
-    userurl: 'team/nelson-rodriguez',
+    userurl: 'nelson-rodriguez',
     bio: tokens.form.nelsonBio as string,
     intro: tokens.form.nelsonIntro as string,
     education: tokens.form.nelsonEducation as string,
@@ -463,7 +463,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.maxTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/max-wildner',
+    userurl: 'max-wildner',
     bio: tokens.form.maxBio as string,
     intro: tokens.form.maxIntro as string,
     education: tokens.form.maxEducation as string,
@@ -479,7 +479,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.martinCamperoMantelliTitle as string,
     cover: '/assets/team/martin-campero.jpg',
     image: '/assets/team/martin-campero.jpg',
-    userurl: 'team/martin-campero',
+    userurl: 'martin-campero',
     bio: tokens.form.martinCamperoMantelliBio as string,
     intro: tokens.form.martinCamperoMantelliIntro as string,
     education: tokens.form.martinCamperoMantelliEducation as string,
@@ -497,7 +497,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.franciscoRRTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/francisco-ramos',
+    userurl: 'francisco-ramos',
     bio: tokens.form.franciscoRRBio as string,
     intro: tokens.form.franciscoRRIntro as string,
     education: tokens.form.franciscoRREducation as string,
@@ -514,7 +514,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.franciscaGCTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/francisca-gonzalez',
+    userurl: 'francisca-gonzalez',
     bio: tokens.form.franciscaGCBio as string,
     intro: tokens.form.franciscaGCIntro as string,
     education: tokens.form.franciscaGCEducation as string,
@@ -532,7 +532,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.silvanaTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/silvana-luccardi',
+    userurl: 'silvana-luccardi',
     bio: tokens.form.silvanaBio as string,
     intro: tokens.form.silvanaIntro as string,
     education: tokens.form.silvanaEducation as string,
@@ -550,7 +550,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.joseDQTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/jose-diaz',
+    userurl: 'jose-diaz',
     bio: tokens.form.joseDQBio as string,
     intro: tokens.form.joseDQIntro as string,
     education: tokens.form.joseDQEducation as string,
@@ -569,7 +569,7 @@ export const lawyers: Lawyer[] = [
     title: tokens.form.darelysTitle as string,
     cover: '/assets/team/nofoto.jpg',
     image: '/assets/team/nofoto.jpg',
-    userurl: 'team/darelys-aguana',
+    userurl: 'darelys-aguana',
     bio: tokens.form.darelysBio as string,
     intro: tokens.form.darelysIntro as string,
     education: tokens.form.darelysEducation as string,
