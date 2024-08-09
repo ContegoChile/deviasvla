@@ -496,7 +496,7 @@ export const lawyers: Lawyer[] = [
     email: 'fgonzalez@vla.cl',
     title: tokens.form.franciscaGCTitle as string,
     cover: '/assets/team/francisca-gonzalez.jpg',
-    image: '/assets/team/francisca-gonzalez-fondo.jpg',
+    image: '/assets/team/francisca-gonzalez.jpg',
     userurl: 'francisca-gonzalez',
     bio: tokens.form.franciscaGCBio as string,
     intro: tokens.form.franciscaGCIntro as string,
